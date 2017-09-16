@@ -25,7 +25,7 @@ title: Calendar
 </div>
 
   {% for currentdaynum in (0..numdays) %}
-    {% assign currentdateseconds = currentdaynum | times: 86400 | plus: startdateseconds %}
+    {% assign currentdateseconds = currentdaynum | times: 86400 | plus: 3600 | plus: startdateseconds %}
     {% assign currentdate = currentdateseconds | date: '%F' %}
     {% assign currentdayofweek = currentdate | date: '%a' %}
 
