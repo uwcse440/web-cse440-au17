@@ -338,5 +338,5 @@ holidays:
     name: "Veterans Day (Observed)"
   - date: "2017-11-23"
     name: "Thanksgiving"
-  - date: "2017-11-24 (Observed)"
-    name: "Thanksgiving"
+  - date: "2017-11-24"
+    name: "Thanksgiving (Observed)"
