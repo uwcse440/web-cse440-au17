@@ -2,24 +2,28 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 4: Communicating Your Design"
 
-due_project_4a: Uploaded Monday, March 6, 2017
-link_project_4a: https://canvas.uw.edu/courses/1098203/assignments/3615328
+# due_project_4a: Uploaded Monday, March 6, 2017
+# link_project_4a: https://canvas.uw.edu/courses/1098203/assignments/3615328
 
-due_project_4b: Uploaded Monday, March 6, 2017 (before class on Tuesday, March 7, 2017)
-link_project_4b: https://canvas.uw.edu/courses/1098203/assignments/3615334
+# due_project_4b: Uploaded Monday, March 6, 2017 (before class on Tuesday, March 7, 2017)
+# link_project_4b: https://canvas.uw.edu/courses/1098203/assignments/3615334
 
-due_project_4c: Uploaded Wednesday, March 8, 2017 (before class on Thursday, March 9, 2017)
-link_project_4c: https://canvas.uw.edu/courses/1098203/assignments/3615337
+# due_project_4c: Uploaded Wednesday, March 8, 2017 (before class on Thursday, March 9, 2017)
+# link_project_4c: https://canvas.uw.edu/courses/1098203/assignments/3615337
 
-due_project_4d: Completed in section on Friday, March 10, 2017
+# due_project_4d: Completed in section on Friday, March 10, 2017
 
-due_project_4e: Uploaded Friday, March 10, 2017
-link_project_4e_poster: https://canvas.uw.edu/courses/1098203/assignments/3615345
-link_project_4e_video: https://canvas.uw.edu/courses/1098203/assignments/3615348
+# due_project_4e: Uploaded Friday, March 10, 2017
+# link_project_4e_poster: https://canvas.uw.edu/courses/1098203/assignments/3615345
+# link_project_4e_video: https://canvas.uw.edu/courses/1098203/assignments/3615348
 
-due_project_4f: Attend 11:00 to 12:20, Monday, March 13, 2017
+# due_project_4f: Attend 11:00 to 12:20, Monday, March 13, 2017
 
 ---
+
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
+</div>
 
 # Overview
 
@@ -80,7 +84,7 @@ You will create a website, a video prototype, a poster, and a pitch to present y
    [Assignment 2]({{ site.baseurl }}/assignments/assignment2/) report, 
    your [Assignment 3]({{ site.baseurl }}/assignments/assignment3/) report, your video prototype, and your poster.
    Optionally, also include your presentations or other materials.
-   Ideally, mcuh of this same content will also be presented in a manner more appropriate for the web. 
+   Ideally, much of this same content will also be presented in a manner more appropriate for the web. 
    
    Be sure you have updated any documents that course staff said needed fixed before posting 
    (e.g., any report that accidentally included participant identifying information). 
@@ -132,7 +136,7 @@ You can build your website however you like, but everything needed for your site
 Do not attempt to integrate with the Jekyll functionality used for this course website.
 Simply build your website and submit the set of static files to be served from your directory. 
 
-You will later add your video to the website.
+You will later add your video to the website. You may want to plan ahead for that additional content.
 
 ### Samples from Prior Offerings
 
@@ -231,7 +235,7 @@ Your poster should include:
 
 Your poster should include images and limited amounts of text.
 
-An effective poster size is 32"x40". A PowerPoint template available here:
+An effective poster size is 32"x40". A PowerPoint template is available here:
 
 [Cow Project PowerPoint template]({{ site.baseurl }}/samples/4c/poster_template.ppt)
 
