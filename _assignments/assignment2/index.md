@@ -2,37 +2,41 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 2: Getting the Right Design"
 
-due_project_2a: Completed in section on Friday, January 13, 2017
-link_project_2a: https://canvas.uw.edu/courses/1098203/assignments/3577751
+# due_project_2a: Completed in section on Friday, January 13, 2017
+# link_project_2a: https://canvas.uw.edu/courses/1098203/assignments/3577751
 
-due_project_2b: Uploaded Monday, January 16, 2017 (before class on Tuesday, January 17, 2017)
-link_project_2b: https://canvas.uw.edu/courses/1098203/assignments/3577778
-#link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985
+# due_project_2b: Uploaded Monday, January 16, 2017 (before class on Tuesday, January 17, 2017)
+# link_project_2b: https://canvas.uw.edu/courses/1098203/assignments/3577778
+# #link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985
 
-due_project_2c: Uploaded Thursday, January 19, 2017 (before section on Friday, January 20, 2017)
-link_project_2c: https://canvas.uw.edu/courses/1098203/assignments/3577780
+# due_project_2c: Uploaded Thursday, January 19, 2017 (before section on Friday, January 20, 2017)
+# link_project_2c: https://canvas.uw.edu/courses/1098203/assignments/3577780
 
-due_project_2d: Uploaded Monday, January 23, 2017 (before class on Tuesday, January 24, 2017)
-link_project_2d: https://canvas.uw.edu/courses/1098203/assignments/3577785
-#link_project_2d_critique: https://canvas.uw.edu/courses/987987/assignments/3024240
+# due_project_2d: Uploaded Monday, January 23, 2017 (before class on Tuesday, January 24, 2017)
+# link_project_2d: https://canvas.uw.edu/courses/1098203/assignments/3577785
+# #link_project_2d_critique: https://canvas.uw.edu/courses/987987/assignments/3024240
 
-due_project_2e: Uploaded Thursday, January 26, 2017 (before class on Friday, January 27, 2017)
-link_project_2e: https://canvas.uw.edu/courses/1098203/assignments/3577792
+# due_project_2e: Uploaded Thursday, January 26, 2017 (before class on Friday, January 27, 2017)
+# link_project_2e: https://canvas.uw.edu/courses/1098203/assignments/3577792
 
-due_project_2f: Uploaded Monday, January 30, 2017 (before class on Tuesday, January 31, 2017)
-link_project_2f: https://canvas.uw.edu/courses/1098203/assignments/3577761
-#link_project_2f_critique: https://canvas.uw.edu/courses/987987/assignments/3029342
+# due_project_2f: Uploaded Monday, January 30, 2017 (before class on Tuesday, January 31, 2017)
+# link_project_2f: https://canvas.uw.edu/courses/1098203/assignments/3577761
+# #link_project_2f_critique: https://canvas.uw.edu/courses/987987/assignments/3029342
 
-due_project_2g: Uploaded Thursday, February 2, 2017 (before section on Friday, February 3, 2017)
-link_project_2g: https://canvas.uw.edu/courses/1098203/assignments/3577769
+# due_project_2g: Uploaded Thursday, February 2, 2017 (before section on Friday, February 3, 2017)
+# link_project_2g: https://canvas.uw.edu/courses/1098203/assignments/3577769
 
-due_project_2h: Uploaded Monday, February 6, 2017 (before class on Tuesday, February 7, 2017)
-link_project_2h: https://canvas.uw.edu/courses/1098203/assignments/3577781
+# due_project_2h: Uploaded Monday, February 6, 2017 (before class on Tuesday, February 7, 2017)
+# link_project_2h: https://canvas.uw.edu/courses/1098203/assignments/3577781
 
-due_project_2i: Uploaded Wednesday, February 8, 2017 (before class on Thursday, February 9, 2017 and section on Friday February 10, 2017)
-link_project_2i: https://canvas.uw.edu/courses/1098203/assignments/3577784
+# due_project_2i: Uploaded Wednesday, February 8, 2017 (before class on Thursday, February 9, 2017 and section on Friday February 10, 2017)
+# link_project_2i: https://canvas.uw.edu/courses/1098203/assignments/3577784
 
 ---
+
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
+</div>
 
 # Overview
 
@@ -161,13 +165,17 @@ More specifically, you will do the following:
 
 Due: {{ page.due_project_2a }}
 
+The goal of this assignment is to begin thinking about how to plan effective design research to inform your design process.
+
 Generate 5 to 10 different ideas related to each of the following aspects of your project proposal:
 
+<div class="alert alert-danger" markdown="1">
 - Forms: types of technology on which a design might be developed (e.g., desktop, phone/tablet, sensor, watch, wearable).
 - Data: types of data a design might track or help a person track.
 - Features: a specific capability a design might have.
 - Tasks: what a person might accomplish with a design. 
 - Social Interactions: types of social interactions and situations a design might engage or support.
+</div>
 
 We will provide large sheets of paper. Divide a large sheet of paper into 32 squares, each approximately 2in by 2in.
 Sketch your ideas, one in each square. Each idea should be either a quick doodle with a caption or a one-sentence idea. 
@@ -183,8 +191,6 @@ Following up on the above, additionally brainstorm:
  
 - People: types of people you might work with to learn more.
 - Foci: potential foci you might apply in your learning.
-
-The goal is to begin thinking about how to plan effective design research to inform your design process.
 
 ### Submission
 

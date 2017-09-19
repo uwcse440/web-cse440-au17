@@ -2,16 +2,20 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 1: Project Proposal"
 
-due_project_1a: Uploaded Thursday, January 5, 2017 (before section on Friday, January 6, 2017)
-link_project_1a: https://canvas.uw.edu/courses/1098203/assignments/3559051
+# due_project_1a: Uploaded Thursday, January 5, 2017 (before section on Friday, January 6, 2017)
+# link_project_1a: https://canvas.uw.edu/courses/1098203/assignments/3559051
 
-due_project_1b: Uploaded Monday, January 9, 2017
-link_project_1b: https://canvas.uw.edu/courses/1098203/assignments/3559055
+# due_project_1b: Uploaded Monday, January 9, 2017
+# link_project_1b: https://canvas.uw.edu/courses/1098203/assignments/3559055
 
-due_project_1c: Submitted Wednesday, January 11, 2017
-link_project_1c_projects: https://canvas.uw.edu/courses/1098203/discussion_topics/3622610
-link_project_1c_bids: https://goo.gl/forms/zMHvrB3HfbfT6J0x1
+# due_project_1c: Submitted Wednesday, January 11, 2017
+# link_project_1c_projects: https://canvas.uw.edu/courses/1098203/discussion_topics/3622610
+# link_project_1c_bids: https://goo.gl/forms/zMHvrB3HfbfT6J0x1
 ---
+
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
+</div>
 
 # Overview
 
