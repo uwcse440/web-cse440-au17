@@ -3,12 +3,16 @@ layout: base/bar/bar-sidebar-none
 title: Course Overview
 ---
 
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
+</div>
+
 # Course Description
 
 This course provides an introduction to human-computer interaction and the design process.
 Students will learn methods and skills for designing and prototyping interactive systems.
 The course covers a design process from the initial formulation of a design problem to creation of digital prototypes.
-Course structure is a mix of lectures, classroom activities, and design critiques by peers and course staff.
+The course structure is a mix of lectures, classroom activities, and design critiques by peers and course staff.
 The course is overwhelmingly organized around a group project, in which students:
 
 - Ideate and Propose Design Problems
@@ -44,7 +48,8 @@ Self-tracking and personal informatics are closely related to the [Quantified Se
 >
 > [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
 
-As a focus for Winter 2017, we will ask students to explore __tracking beyond the self__.
+<div class="alert alert-danger" markdown="1">
+As a focus for Autumn 2017, we will ask students to explore __tracking beyond the self__.
 Instead of limiting self-tracking to a isolated self-analyst,
 we will ask students to consider how people might interact around personal data.
 Potential examples of social contexts for tracking could include:
@@ -57,6 +62,7 @@ Potential examples of social contexts for tracking could include:
 
 Any problem where multiple people collect data, or where multiple people engage in gaining value from data,
 introduces additional opportunities and challenges in designing for effective interaction with personal data.
+</div>
 
 # Project Structure
 
@@ -69,8 +75,10 @@ Projects are organized around four assignments, each consisting of several miles
 
 Sample projects from prior offerings include:
 
+<div class="alert alert-danger" markdown="1">
 {% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
   -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}){% endfor %}{% endfor %}
+</div>
 
 Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
 Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
@@ -84,19 +92,20 @@ A small set of readings are assigned throughout the quarter, with additional res
 
 # Basic Information
 
-__Contact__: Email all instructors at cse440-instr [at] cs.washington.edu
+__Contact__: Email all instructors at cse440-staff [at] cs.washington.edu
 
-__Class Time & Location__: Tuesdays & Thursdays, 10:30-11:50 GLD 322
+__Class Time & Location__: Tuesdays & Thursdays, 12:00-1:20 [PAA A110](http://www.washington.edu/students/maps/map.cgi?PAA)
 
 __Section Times & Locations__: 
 
-- Fridays, 10:30-11:20 MGH 058
-- Fridays, 11:30-12:20 MGH 058
-- Fridays, 1:30-2:20 MGH 058
-- Fridays, 2:30-3:20 MGH 058
+- Fridays, 9:30-10:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
+- Fridays, 10:30-11:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
+- Fridays, 12:30-1:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
+- Fridays, 1:30-2:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
 
 __Office Hours__: 
 
+<div class="alert alert-danger" markdown="1">
 Scheduled hours are held most weeks, but check the calendar:
 
 - James, Tuesdays 2:30 to 3:30, CSE 666
@@ -104,9 +113,11 @@ Scheduled hours are held most weeks, but check the calendar:
 - David, Thursdays 12:00 to 1:00, CSE 021
 
 Other meetings are by appointment.
+</div>
 
 __Course Staff__:
 
+<div class="alert alert-danger" markdown="1">
 <html>
   <div class="row">
     <div class="col-md-2">
@@ -131,6 +142,7 @@ __Course Staff__:
     </div>
   </div>
 </html>
+</div>
 
 # Grading
 
@@ -192,7 +204,7 @@ The course staff has a large number of submissions to manage, so format and comp
 
 This course website lives on GitHub:
 
-<https://github.com/uwcse440/web-cse440-wi17>
+<https://github.com/uwcse440/web-cse440-au17>
 
 You can submit pull requests to update the webpage, and you will publish project webpages via pull request.
 
