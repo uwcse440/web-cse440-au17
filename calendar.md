@@ -18,8 +18,8 @@ title: Calendar
 
 <div class="row week">
 <div class="col-xs-12">
-<div markdown="1">
-`This page is still being migrated and developed. All content remains subject to change.`
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
 </div>
 </div>
 </div>
