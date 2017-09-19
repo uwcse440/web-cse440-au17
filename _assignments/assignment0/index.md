@@ -2,15 +2,15 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 0: Introduction Slide"
 
-link_assignment_0: https://canvas.uw.edu/courses/1098203/assignments/3522037
-date_assignment_0: January 10, 2017
+# link_assignment_0: https://canvas.uw.edu/courses/1098203/assignments/3522037
+# date_assignment_0: January 10, 2017
 ---
 
 # Overview
 
 Submit an informal slide that will help us as we get to know you:
 
-- Face Picture
+- Picture
 - Name (formal, preferred, pronouns)
 - Majors / Minors (career goals)
 - Year (1,2,3,4,5,6,...)
