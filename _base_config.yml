@@ -34,8 +34,8 @@ config:
       compose_up_delay: 60
 
   readme:
-    working_directory_windows: c:/devel/invoke-base
-    working_directory_mac: ~/Desktop/invoke-base
+    working_directory_windows: c:/devel/web-cse440-au17
+    working_directory_mac: ~/Desktop/web-cse440-au17
 
     python_versions:
       - version: 3.5.2
