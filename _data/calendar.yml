@@ -25,9 +25,9 @@ locations:
     - time: "11:00 - 12:20"
       location: "CSE Atrium"
 
-#  officehoursjames:
-#    - time: "2:30 - 3:30"
-#      location: "CSE 666"
+  officehoursjames:
+    - time: "3:30 - 4:30"
+      location: "CSE 632"
 #  officehoursdavid:
 #    - time: "12:00 - 1:00"
 #      location: "CSE 021"
@@ -288,28 +288,34 @@ aways:
 #    name: "David / Ravi<br>Section Switch"
 
 officehours:
-#  - date: "2017-01-10"
-#    name: "James Office Hour"
-#    location: officehoursjames
-#  - date: "2017-01-17"
-#    name: "James Office Hour"
-#    location: officehoursjames
-#  - date: "2017-01-24"
-#    name: "James Office Hour"
-#    location: officehoursjames
-#  - date: "2017-01-31"
-#    name: "James Office Hour"
-#    location: officehoursjames
-#  - date: "2017-02-07"
-#    name: "James Office Hour"
-#    location: officehoursjames
-#  - date: "2017-02-14"
-#    name: "James Office Hour"
-#    location: officehoursjames
-#  - date: "2017-03-07"
-#    name: "James Office Hour"
-#    location: officehoursjames
-#
+  - date: "2017-10-03"
+    name: "James Office Hour"
+    location: officehoursjames
+  - date: "2017-10-10"
+    name: "James Office Hour"
+    location: officehoursjames
+  - date: "2017-10-17"
+    name: "James Office Hour"
+    location: officehoursjames
+  - date: "2017-10-31"
+    name: "James Office Hour"
+    location: officehoursjames
+  - date: "2017-11-07"
+    name: "James Office Hour"
+    location: officehoursjames
+  - date: "2017-11-14"
+    name: "James Office Hour"
+    location: officehoursjames
+  - date: "2017-11-21"
+    name: "James Office Hour"
+    location: officehoursjames
+  - date: "2017-11-28"
+    name: "James Office Hour"
+    location: officehoursjames
+  - date: "2017-12-05"
+    name: "James Office Hour"
+    location: officehoursjames
+
 #  - date: "2017-01-12"
 #    name: "David Office Hour"
 #    location: officehoursdavid

@@ -3,6 +3,8 @@ offering:
     key: autumn2014
   - name: Autumn 2015
     key: autumn2015
+  - name: Winter 2017
+    key: winter2017
 
 autumn2014:
   - name: Aqueous
@@ -31,3 +33,17 @@ autumn2015:
   - name: School View
     link: "https://courses.cs.washington.edu/courses/cse440/15au/projects/schoolview/"
     suffix: schoolview
+
+winter2017:
+  - name: BookWurm
+    link: "https://courses.cs.washington.edu/courses/cse440/17wi/projects/bookwurm/"
+    suffix: bookwurm
+  - name: Dash
+    link: "https://courses.cs.washington.edu/courses/cse440/17wi/projects/dash/"
+    suffix: dash
+  - name: Jasper
+    link: "https://courses.cs.washington.edu/courses/cse440/17wi/projects/jasper/"
+    suffix: jasper
+  - name: Wishing Well
+    link: "https://courses.cs.washington.edu/courses/cse440/17wi/projects/wishingwell/"
+    suffix: wishingwell
