@@ -22,11 +22,9 @@ Please join us for a poster session celebrating the outstanding design work of C
 Thank you for joining us to celebrate the outstanding design work of CSE 440 students:
 {% endcomment %}
 
-<div class="alert alert-danger" markdown="1">
-Tuesday, June 6
+Thursday, December 14, 2017
 
-11:00 am to 11:50pm, [CSE Atrium](http://www.washington.edu/maps/#!/cse)
-</div>
+11:15 am to 12:15pm, [CSE Atrium](http://www.washington.edu/maps/#!/cse)
 
 <img src="{{ site.baseurl }}/images/poster_session.jpg" width="100%" alt="Poster Session"/>
 </div>
@@ -38,7 +36,6 @@ Tuesday, June 6
 
 # Project Theme
 
-<div class="alert alert-danger" markdown="1">
 People have long sought to better understand themselves, but recently technology advances enable new approaches.
 Projects explored opportunities and challenges in self-tracking, also known as personal informatics:
 
@@ -53,6 +50,7 @@ Self-tracking and personal informatics are closely related to the [Quantified Se
 >
 > [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
 
+<div class="alert alert-danger" markdown="1">
 As a focus for Autumn 2017, students were asked to explore __tracking beyond the self__.
 Instead of limiting self-tracking to a isolated self-analyst,
 we asked students to consider how people might interact around personal data in a variety of social contexts.

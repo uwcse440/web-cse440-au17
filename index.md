@@ -105,15 +105,15 @@ __Section Times & Locations__:
 
 __Office Hours__: 
 
-<div class="alert alert-danger" markdown="1">
 Scheduled hours are held most weeks, but check the calendar:
 
-- James, Tuesdays 2:30 to 3:30, CSE 666
+- James, Tuesdays 3:30 to 4:30, CSE 632
+<div class="alert alert-danger" markdown="1">
 - Eunice, Wednesdays 1:45 to 2:45, CSE 021
 - David, Thursdays 12:00 to 1:00, CSE 021
+</div>
 
 Other meetings are by appointment.
-</div>
 
 __Course Staff__:
 
@@ -125,20 +125,24 @@ __Course Staff__:
       <p><img src="{{ site.baseurl }}/images/james_photo.jpg" width="150" alt="James Fogarty"/></p>
     </div>
     <div class="col-md-2">
-      <p>Eunice Jun</p>
-      <p><img src="{{ site.baseurl }}/images/eunice_photo.jpg" width="150" alt="Eunice Jun"/></p>
+      <p>Kailey Chan</p>
+      <p><img src="{{ site.baseurl }}/images/kailey_photo.jpg" width="150" alt="Kailey Chan"/></p>
     </div>
     <div class="col-md-2">
-      <p>David Wang</p>
-      <p><img src="{{ site.baseurl }}/images/david_photo.jpg" width="150" alt="David Wang"/></p>
+      <p>Dhruv Jain</p>
+      <p><img src="{{ site.baseurl }}/images/dhruv_photo.jpg" width="150" alt="Dhruv Jain"/></p>
     </div>
     <div class="col-md-2">
-      <p>Elisabeth Chin</p>
-      <p><img src="{{ site.baseurl }}/images/elisabeth_photo.jpg" width="150" alt="Elisabeth Chin"/></p>
+      <p>Nigini Oliveira</p>
+      <p><img src="{{ site.baseurl }}/images/nigini_photo.jpg" width="150" alt="Nigini Oliveira"/></p>
     </div>
     <div class="col-md-2">
-      <p>Ravi Karkar</p>
-      <p><img src="{{ site.baseurl }}/images/ravi_photo.jpg" width="150" alt="Ravi Karkar"/></p>
+      <p>Christopher Seeds</p>
+      <p><img src="{{ site.baseurl }}/images/christopher_photo.jpg" width="150" alt="Christopher Seeds"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Jihoon Suh</p>
+      <p><img src="{{ site.baseurl }}/images/jihoon_photo.jpg" width="150" alt="Jihoon Suh"/></p>
     </div>
   </div>
 </html>
