@@ -75,10 +75,8 @@ Projects are organized around four assignments, each consisting of several miles
 
 Sample projects from prior offerings include:
 
-<div class="alert alert-danger" markdown="1">
 {% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
   -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}){% endfor %}{% endfor %}
-</div>
 
 Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
 Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
