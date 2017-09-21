@@ -29,6 +29,64 @@ The course is overwhelmingly organized around a group project, in which students
 - Rapid Prototyping and Iteration
 - Critical Perspective on Design Solutions
 
+# Basic Information
+
+__Contact__: Email all instructors at cse440-staff [at] cs.washington.edu
+
+__Class Time & Location__: Tuesdays & Thursdays, 12:00-1:20 [PAA A110](http://www.washington.edu/students/maps/map.cgi?PAA)
+
+__Section Times & Locations__: 
+
+- Fridays, 9:30-10:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
+- Fridays, 10:30-11:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
+- Fridays, 12:30-1:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
+- Fridays, 1:30-2:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
+
+__Office Hours__: 
+
+Scheduled hours are held most weeks, but check the calendar:
+
+- James, Tuesdays 3:30 to 4:30, CSE 632
+<div class="alert alert-danger" markdown="1">
+- Eunice, Wednesdays 1:45 to 2:45, CSE 021
+- David, Thursdays 12:00 to 1:00, CSE 021
+</div>
+
+Other meetings are by appointment.
+
+__Course Staff__:
+
+<div class="alert alert-danger" markdown="1">
+<html>
+  <div class="row">
+    <div class="col-md-2">
+      <p>James Fogarty</p>
+      <p><img src="{{ site.baseurl }}/images/james_photo.jpg" width="150" alt="James Fogarty"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Kailey Chan</p>
+      <p><img src="{{ site.baseurl }}/images/kailey_photo.jpg" width="150" alt="Kailey Chan"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Dhruv Jain</p>
+      <p><img src="{{ site.baseurl }}/images/dhruv_photo.jpg" width="150" alt="Dhruv Jain"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Nigini Oliveira</p>
+      <p><img src="{{ site.baseurl }}/images/nigini_photo.jpg" width="150" alt="Nigini Oliveira"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Christopher Seeds</p>
+      <p><img src="{{ site.baseurl }}/images/christopher_photo.jpg" width="150" alt="Christopher Seeds"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Jihoon Suh</p>
+      <p><img src="{{ site.baseurl }}/images/jihoon_photo.jpg" width="150" alt="Jihoon Suh"/></p>
+    </div>
+  </div>
+</html>
+</div>
+
 # Project Theme
 
 People have long sought to better understand themselves, but recently technology advances enable new approaches.
@@ -87,64 +145,6 @@ Be sure to understand and carefully consider project requirements and feedback f
 A small set of readings are assigned throughout the quarter, with additional resources also made available.
 
 - [Reading Assignments]({{ site.baseurl }}/assignments/readings/)
-
-# Basic Information
-
-__Contact__: Email all instructors at cse440-staff [at] cs.washington.edu
-
-__Class Time & Location__: Tuesdays & Thursdays, 12:00-1:20 [PAA A110](http://www.washington.edu/students/maps/map.cgi?PAA)
-
-__Section Times & Locations__: 
-
-- Fridays, 9:30-10:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
-- Fridays, 10:30-11:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
-- Fridays, 12:30-1:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
-- Fridays, 1:30-2:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
-
-__Office Hours__: 
-
-Scheduled hours are held most weeks, but check the calendar:
-
-- James, Tuesdays 3:30 to 4:30, CSE 632
-<div class="alert alert-danger" markdown="1">
-- Eunice, Wednesdays 1:45 to 2:45, CSE 021
-- David, Thursdays 12:00 to 1:00, CSE 021
-</div>
-
-Other meetings are by appointment.
-
-__Course Staff__:
-
-<div class="alert alert-danger" markdown="1">
-<html>
-  <div class="row">
-    <div class="col-md-2">
-      <p>James Fogarty</p>
-      <p><img src="{{ site.baseurl }}/images/james_photo.jpg" width="150" alt="James Fogarty"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Kailey Chan</p>
-      <p><img src="{{ site.baseurl }}/images/kailey_photo.jpg" width="150" alt="Kailey Chan"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Dhruv Jain</p>
-      <p><img src="{{ site.baseurl }}/images/dhruv_photo.jpg" width="150" alt="Dhruv Jain"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Nigini Oliveira</p>
-      <p><img src="{{ site.baseurl }}/images/nigini_photo.jpg" width="150" alt="Nigini Oliveira"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Christopher Seeds</p>
-      <p><img src="{{ site.baseurl }}/images/christopher_photo.jpg" width="150" alt="Christopher Seeds"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Jihoon Suh</p>
-      <p><img src="{{ site.baseurl }}/images/jihoon_photo.jpg" width="150" alt="Jihoon Suh"/></p>
-    </div>
-  </div>
-</html>
-</div>
 
 # Grading
 
