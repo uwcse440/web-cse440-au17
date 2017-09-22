@@ -163,3 +163,19 @@ rbenv local 2.3.3
 
 Installing `rbenv` via Homebrew should automatically install `ruby-devkit`
 
+
+# Configure and Run
+
+Install project dependencies:
+
+~~~
+npm install
+gem install bundler
+bundle install
+~~~
+
+Compile and run local copy:
+
+~~~
+bundle exec jekyll serve
+~~~
