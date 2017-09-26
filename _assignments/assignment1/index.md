@@ -2,13 +2,13 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 1: Project Proposal"
 
-# due_project_1a: Uploaded Thursday, January 5, 2017 (before section on Friday, January 6, 2017)
+due_project_1a: Uploaded Thursday, September 28, 2017 (before section on Friday, September 29,2017)
 # link_project_1a: https://canvas.uw.edu/courses/1098203/assignments/3559051
 
-# due_project_1b: Uploaded Monday, January 9, 2017
+due_project_1b: Uploaded Monday, October 2, 2017
 # link_project_1b: https://canvas.uw.edu/courses/1098203/assignments/3559055
 
-# due_project_1c: Submitted Wednesday, January 11, 2017
+due_project_1c: Submitted Wednesday, October 4, 2017
 # link_project_1c_projects: https://canvas.uw.edu/courses/1098203/discussion_topics/3622610
 # link_project_1c_bids: https://goo.gl/forms/zMHvrB3HfbfT6J0x1
 ---
@@ -59,6 +59,7 @@ Self-tracking and personal informatics are closely related to the [Quantified Se
 >
 > [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
 
+<div class="alert alert-danger" markdown="1">
 As a focus for Winter 2017, we will ask students to explore __tracking beyond the self__.
 Instead of limiting self-tracking to a isolated self-analyst,
 we will ask students to consider how people might interact around personal data.
@@ -72,6 +73,7 @@ Potential examples of social contexts for tracking could include:
 
 Any problem where multiple people collect data, or where multiple people engage in gaining value from data,
 introduces additional opportunities and challenges in designing for effective interaction with personal data.
+</div>
 
 # Background Material
 

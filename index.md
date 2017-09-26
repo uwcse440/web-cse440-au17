@@ -65,7 +65,7 @@ __Course Staff__:
     </div>
     <div class="col-md-2">
       <p>Kailey Chan</p>
-      <p><img src="{{ site.baseurl }}/images/kailey_photo.jpg" height="150" alt="Kailey Chan"/></p>
+      <p><img src="{{ site.baseurl }}/images/kailey_photo.png" height="150" alt="Kailey Chan"/></p>
     </div>
     <div class="col-md-2">
       <p>Dhruv Jain</p>
