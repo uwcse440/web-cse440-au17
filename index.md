@@ -119,9 +119,9 @@ we will ask students to consider the many different ways people might gather and
 
 Tracking can therefore take many mobile forms:
 
-- phone applications
-- watch applications
 - wearable sensors
+- phone and watch applications
+- appliances and other artifacts in the environment
 - hybrid forms (e.g., semi-automated capture, mobile capture with later annotation or review)
 
 Tracking can include many social contexts:
