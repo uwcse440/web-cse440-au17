@@ -29,11 +29,48 @@ The course is overwhelmingly organized around a group project, in which students
 - Rapid Prototyping and Iteration
 - Critical Perspective on Design Solutions
 
+# Course Staff
+
+<html>
+  <div class="row">
+    <div class="col-md-2">
+      <p>James Fogarty</p>
+      <p><img src="{{ site.baseurl }}/images/james_photo.jpg" height="140" alt="James Fogarty"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Kailey Chan</p>
+      <p><img src="{{ site.baseurl }}/images/kailey_photo.png" height="140" alt="Kailey Chan"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Dhruv Jain</p>
+      <p><img src="{{ site.baseurl }}/images/dhruv_photo.jpg" height="140" alt="Dhruv Jain"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Nigini Oliveira</p>
+      <p><img src="{{ site.baseurl }}/images/nigini_photo.jpg" height="140" alt="Nigini Oliveira"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Christopher Seeds</p>
+      <p><img src="{{ site.baseurl }}/images/christopher_photo.jpg" height="140" alt="Christopher Seeds"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Jihoon Suh</p>
+      <p><img src="{{ site.baseurl }}/images/jihoon_photo.jpg" height="140" alt="Jihoon Suh"/></p>
+    </div>
+  </div>
+</html>
+
 # Basic Information
 
-__Contact__: Email all instructors at cse440-staff [at] cs.washington.edu
+__Contact__:
 
-__Class Time & Location__: Tuesdays & Thursdays, 12:00-1:20 [PAA A110](http://www.washington.edu/students/maps/map.cgi?PAA)
+- Email all instructors at cse440-staff [at] cs.washington.edu
+
+__Class Time & Location__:
+
+- Tuesdays & Thursdays, 12:00-1:20 [PAA A110](http://www.washington.edu/students/maps/map.cgi?PAA)
+
+- Check the calendar for non-standard times or locations. 
 
 __Section Times & Locations__: 
 
@@ -42,50 +79,19 @@ __Section Times & Locations__:
 - Fridays, 12:30-1:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
 - Fridays, 1:30-2:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
 
-__Office Hours__: 
+- Check the calendar for non-standard times or locations. 
 
-Scheduled hours are held most weeks, but check the calendar:
+__Office Hours__: 
 
 - James, Tuesdays 3:30 to 4:30, CSE 632
 <div class="alert alert-danger" markdown="1">
-- Eunice, Wednesdays 1:45 to 2:45, CSE 021
-- David, Thursdays 12:00 to 1:00, CSE 021
+- Kailey, TBD, CSE TBD
+- Dhruv, TBD, CSE TBD
+- Nigini, TBD, CSE TBD
 </div>
 
-Other meetings are by appointment.
-
-__Course Staff__:
-
-<div class="alert alert-danger" markdown="1">
-<html>
-  <div class="row">
-    <div class="col-md-2">
-      <p>James Fogarty</p>
-      <p><img src="{{ site.baseurl }}/images/james_photo.jpg" height="150" alt="James Fogarty"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Kailey Chan</p>
-      <p><img src="{{ site.baseurl }}/images/kailey_photo.png" height="150" alt="Kailey Chan"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Dhruv Jain</p>
-      <p><img src="{{ site.baseurl }}/images/dhruv_photo.jpg" height="150" alt="Dhruv Jain"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Nigini Oliveira</p>
-      <p><img src="{{ site.baseurl }}/images/nigini_photo.jpg" height="150" alt="Nigini Oliveira"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Christopher Seeds</p>
-      <p><img src="{{ site.baseurl }}/images/christopher_photo.jpg" height="150" alt="Christopher Seeds"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Jihoon Suh</p>
-      <p><img src="{{ site.baseurl }}/images/jihoon_photo.jpg" height="150" alt="Jihoon Suh"/></p>
-    </div>
-  </div>
-</html>
-</div>
+- Scheduled hours are held most weeks, but check the calendar for detailed information. 
+- Other meetings are by appointment.
 
 # Project Theme
 
@@ -107,10 +113,9 @@ Self-tracking and personal informatics are related to the [Quantified Self](http
 > [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
 
 <div class="alert alert-danger" markdown="1">
-As a focus for Autumn 2017, we will ask students to explore __tracking beyond the desktop__.
-
-Instead of considering tracking in terms of dashboards for an isolated self-analyst,
-we will ask students to consider how people might interact around personal data.
+As a focus for Autumn 2017, we will ask students to explore __tracking beyond the self__.
+Instead of limiting self-tracking to dashboards for an isolated self-analyst,
+we will ask students to consider the many different ways people might gather and interact around personal data.
 
 Tracking can therefore take many mobile forms:
 
@@ -133,8 +138,8 @@ And tracking can explore new forms of interaction:
 - tangible interfaces
 - ubiquitous computing interfaces (e.g., enabled by the Internet of Things) 
 
-Any problem where people collect data, or seek value in personal data,
-introduces opportunities and challenges in designing for effective interaction.
+Any problem where people gather or seek value in personal data
+introduces opportunities and challenges in designing for effective interaction around that data.
 </div>
 
 # Project Structure
