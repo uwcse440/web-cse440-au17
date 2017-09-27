@@ -89,9 +89,9 @@ __Course Staff__:
 
 # Project Theme
 
-People have long sought to better understand themselves, but recently technology advances enable new approaches.
-Students will examine the problems people encounter in gathering and gaining value from personal data,
-then explore how new technology can go beyond simple data fetishes to help people in reaching their goals.
+People have long sought to better understand themselves, but technology advances enable new approaches.
+Students will examine problems people encounter in gathering and gaining value from personal data,
+then explore how new technology can go beyond simple data fetishes to help people in using personal data as part of reaching their goals.
 
 Understanding and designing for self-tracking is also known as personal informatics:
 
@@ -100,26 +100,41 @@ Understanding and designing for self-tracking is also known as personal informat
 >
 > [Li _et al._, 2010]({{ site.baseurl }}/readings/PersonalInformatics-Li2010.pdf).
 
-Self-tracking and personal informatics are closely related to the [Quantified Self](http://quantifiedself.com/) movement, which emphasizes:
+Self-tracking and personal informatics are related to the [Quantified Self](http://quantifiedself.com/) movement, which describes itself as:
 
 > Self-knowledge through numbers.
 >
 > [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
 
 <div class="alert alert-danger" markdown="1">
-As a focus for Autumn 2017, we will ask students to explore __tracking beyond the self__.
-Instead of limiting self-tracking to a isolated self-analyst,
+As a focus for Autumn 2017, we will ask students to explore __tracking beyond the desktop__.
+
+Instead of considering tracking in terms of dashboards for an isolated self-analyst,
 we will ask students to consider how people might interact around personal data.
-Potential examples of social contexts for tracking could include:
+
+Tracking can therefore take many mobile forms:
+
+- phone applications
+- watch applications
+- wearable sensors
+- hybrid forms (e.g., semi-automated capture, mobile capture with later annotation or review)
+
+Tracking can include many social contexts:
 
 - co-located relationships (e.g., families, friends, co-workers)
 - remote relationships (e.g., families, friends, co-workers)
-- communities organizing (e.g., people in a building or neighborhood, community volunteers)
+- communities organizing (e.g., people in a building, community volunteers)
 - people seeking help from peers (e.g., social sharing, support networks)
-- people seeking help from experts (e.g., doctors)
+- people seeking help from experts (e.g., health providers)
 
-Any problem where multiple people collect data, or where multiple people engage in gaining value from data,
-introduces additional opportunities and challenges in designing for effective interaction with personal data.
+And tracking can explore new forms of interaction:
+
+- conversational interfaces
+- tangible interfaces
+- ubiquitous computing interfaces (e.g., enabled by the Internet of Things) 
+
+Any problem where people collect data, or seek value in personal data,
+introduces opportunities and challenges in designing for effective interaction.
 </div>
 
 # Project Structure
