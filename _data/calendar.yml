@@ -58,7 +58,7 @@ locations:
 lectures:
   - date: "2017-09-28"
     name: "Introduction,<br>Project Overview,<br>and Personal Informatics"
-#    slides: "slides/lecture/l01-intro.pdf"
+    slides: "slides/lecture/l01-intro.pdf"
   - date: "2017-10-03"
     name: "Design of Everyday Things"
 #    slides: "slides/lecture/l02-doet.pdf"
