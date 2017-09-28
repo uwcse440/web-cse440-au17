@@ -3,9 +3,11 @@ layout: base/bar/bar-sidebar-none
 title: Course Overview
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 # Course Description
 
@@ -50,8 +52,8 @@ The course is overwhelmingly organized around a group project, in which students
       <p><img src="{{ site.baseurl }}/images/nigini_photo.jpg" height="140" alt="Nigini Oliveira"/></p>
     </div>
     <div class="col-md-2">
-      <p>Christopher Seeds</p>
-      <p><img src="{{ site.baseurl }}/images/christopher_photo.jpg" height="140" alt="Christopher Seeds"/></p>
+      <p>Chris Seeds</p>
+      <p><img src="{{ site.baseurl }}/images/chris_photo.jpg" height="140" alt="Chris Seeds"/></p>
     </div>
     <div class="col-md-2">
       <p>Jihoon Suh</p>
@@ -70,28 +72,25 @@ __Class Time & Location__:
 
 - Tuesdays & Thursdays, 12:00-1:20 [PAA A110](http://www.washington.edu/students/maps/map.cgi?PAA)
 
-- Check the calendar for non-standard times or locations. 
+Check the calendar for non-standard times or locations. 
 
 __Section Times & Locations__: 
 
-- Fridays, 9:30-10:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
-- Fridays, 10:30-11:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
-- Fridays, 12:30-1:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
-- Fridays, 1:30-2:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH)
+- Fridays, 9:30-10:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH), with Nigini, Dhruv, Chris
+- Fridays, 10:30-11:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH), with Nigini, Dhruv, Chris
+- Fridays, 12:30-1:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH), with Kailey, Dhruv, Jihoon
+- Fridays, 1:30-2:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH), with Kailey, Dhruv, Jihoon
 
-- Check the calendar for non-standard times or locations. 
+Check the calendar for non-standard times, locations, or staffing. 
 
 __Office Hours__: 
 
 - James, Tuesdays 3:30 to 4:30, CSE 632
-<div class="alert alert-danger" markdown="1">
-- Kailey, TBD, CSE TBD
-- Dhruv, TBD, CSE TBD
-- Nigini, TBD, CSE TBD
-</div>
+- Kailey, Wednesdays, 2:00 to 3:00, CSE 220
+- Dhruv, Thursdays, 1:30 to 2:30, CSE 021
+- Nigini, Mondays, 3:30 to 4:30, CSE 021
 
-- Scheduled hours are held most weeks, but check the calendar for detailed information. 
-- Other meetings are by appointment.
+Scheduled hours are held most weeks, but check the calendar. Other meetings are by appointment.
 
 # Project Theme
 
@@ -112,7 +111,6 @@ Self-tracking and personal informatics are related to the [Quantified Self](http
 >
 > [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
 
-<div class="alert alert-danger" markdown="1">
 As a focus for Autumn 2017, we will ask students to explore __tracking beyond the self__.
 Instead of limiting self-tracking to dashboards for an isolated self-analyst,
 we will ask students to consider the many different ways people might gather and interact around personal data.
@@ -140,7 +138,6 @@ And tracking can explore new forms of interaction:
 
 Any problem where people gather or seek value in personal data
 introduces opportunities and challenges in designing for effective interaction around that data.
-</div>
 
 # Project Structure
 
