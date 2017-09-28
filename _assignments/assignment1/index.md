@@ -3,19 +3,21 @@ layout: base/bar/bar-sidebar-none
 title: "Assignment 1: Project Proposal"
 
 due_project_1a: Uploaded Thursday, September 28, 2017 (before section on Friday, September 29,2017)
-# link_project_1a: https://canvas.uw.edu/courses/1098203/assignments/3559051
+link_project_1a: https://canvas.uw.edu/courses/1173784/assignments/3902386
 
 due_project_1b: Uploaded Monday, October 2, 2017
-# link_project_1b: https://canvas.uw.edu/courses/1098203/assignments/3559055
+link_project_1b: https://canvas.uw.edu/courses/1173784/assignments/3902388
 
 due_project_1c: Submitted Wednesday, October 4, 2017
 # link_project_1c_projects: https://canvas.uw.edu/courses/1098203/discussion_topics/3622610
 # link_project_1c_bids: https://goo.gl/forms/zMHvrB3HfbfT6J0x1
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 # Overview
 
@@ -59,27 +61,40 @@ Self-tracking and personal informatics are closely related to the [Quantified Se
 >
 > [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
 
-<div class="alert alert-danger" markdown="1">
-As a focus for Winter 2017, we will ask students to explore __tracking beyond the self__.
-Instead of limiting self-tracking to a isolated self-analyst,
-we will ask students to consider how people might interact around personal data.
-Potential examples of social contexts for tracking could include:
+As a focus for Autumn 2017, we will ask students to explore __tracking beyond the self__.
+Instead of limiting self-tracking to dashboards for an isolated self-analyst,
+we will ask students to consider the many different ways people might gather and interact around personal data.
+
+Tracking can therefore take many mobile forms:
+
+- wearable sensors
+- phone and watch applications
+- appliances and other artifacts in the environment
+- hybrid forms (e.g., semi-automated capture, mobile capture with later annotation or review)
+
+Tracking can include many social contexts:
 
 - co-located relationships (e.g., families, friends, co-workers)
 - remote relationships (e.g., families, friends, co-workers)
-- communities organizing (e.g., people in a building or neighborhood, community volunteers)
+- communities organizing (e.g., people in a building, community volunteers)
 - people seeking help from peers (e.g., social sharing, support networks)
-- people seeking help from experts (e.g., doctors)
+- people seeking help from experts (e.g., health providers)
 
-Any problem where multiple people collect data, or where multiple people engage in gaining value from data,
-introduces additional opportunities and challenges in designing for effective interaction with personal data.
-</div>
+And tracking can explore new forms of interaction:
+
+- conversational interfaces
+- tangible interfaces
+- ubiquitous computing interfaces (e.g., enabled by the Internet of Things) 
+
+Any problem where people gather or seek value in personal data
+introduces opportunities and challenges in designing for effective interaction around that data.
 
 # Background Material
 
 Examples of widely-used personal informatics systems exist in a variety of domains.
 Some designs emphasize passive tracking (e.g., via sensing),
-while other designs emphasize more active engagement (e.g., via journaling):
+while other designs emphasize more active engagement (e.g., via journaling).
+Of course, there also many axes along which designs can vary:
 
 - Finances
   - [Mint](http://www.mint.com/) (for tracking finances)
@@ -96,7 +111,7 @@ while other designs emphasize more active engagement (e.g., via journaling):
 
 Individuals have gone much deeper into their own data:
 
-- [Feltron Report](http://feltron.com/) (a designer who tracks everything he does and releases an annual report)
+- [Feltron Report](http://feltron.com/) (a designer who tracked all of his activities to create and release an annual report)
 
 Researchers have also studied current processes, challenges, and opportunities:
 
@@ -107,6 +122,7 @@ Researchers have also studied current processes, challenges, and opportunities:
 - [Epstein et al., 2015, A Lived Informatics Model of Personal Informatics]({{ site.baseurl }}/readings/PersonalInformatics-Epstein2015.pdf)
 - [Pina et al., 2017, From Personal Informatics to Family Informatics: Understanding Family Practices around Health Monitoring]({{ site.baseurl }}/readings/PersonalInformatics-Pina2017.pdf)
 - [Schroeder et al., 2017, Supporting Patient-Provider Collaboration to Identify Individual Triggers using Food and Symptom Journals]({{ site.baseurl }}/readings/PersonalInformatics-Schroeder2017.pdf)
+- [Choe et al., 2017, Semi-Automated Tracking: A Balanced Approach for Self-Monitoring Applications]({{ site.baseurl }}/readings/PersonalInformatics-Choe2017.pdf)
 
 ## Thinking Big
  
@@ -141,18 +157,22 @@ You must be able to create and evaluate a design within the timeframe of this co
 can reasonably gain access to the necessary people.
 
 We encourage you to think big, expanding your thinking to include new ideas for interaction techniques or technology platforms.
-Do not feel constrained by current devices, but instead aim to explore an exciting design that could potentially
+Do not feel constrained by current devices or immediate implementation, but instead aim to explore an exciting design that could potentially
 motivate the development of new enabling technology. For example, see how Artefact presents the Dialog concept.
 This concept has not been implemented, and might not even be immediately possible.
 But it has been developed in substantial detail, understanding implications for design and implementation:
 
 - [Dialog: Better Decisions, Better Health - Artefact](http://www.artefactgroup.com/content/work/dialog/)
-- [Video of Dialog Talk in DUB Seminar](http://vimeo.com/103167385)
 
-Finally, the project theme requires that your proposal present some opportunity for __tracking beyond the self__.
+Similarly, projects from prior offerings can help you be comfortable thinking beyond immediate implementation:
+
+{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
+  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}){% endfor %}{% endfor %}
+
+Finally, the project theme requires your proposal present some opportunity for __tracking beyond the self__.
 But you will ultimately follow your design process where it leads you, which may or may not emphasize tracking.
-Focusing on problems and opportunities, rather than specific design features will leave room for your design
-to emerge and be refined in the course of this project.
+Focusing on problems and opportunities, rather than specific design features,
+will leave room for your design to emerge and be refined in the course of this project.
 
 ## Going Forward
 

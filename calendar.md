@@ -127,6 +127,19 @@ This page is still being migrated and developed. All content remains subject to 
           {% endif %}
         {% endfor %}
 
+        {% for currentassignment in site.data.calendar.assignments %}
+          {% if currentdate == currentassignment.date %}
+            <div class="item assignment">
+              <small>
+                  {% if currentassignment.link != nil %}<a href="{{ site.baseurl }}/{{ currentassignment.link }}">{% endif %}
+                  {{ currentassignment.name }}<br>
+                  {% if currentassignment.duenote != nil %}{{ currentassignment.duenote }}{% endif %}
+                  {% if currentassignment.link != nil %}</a>{% endif %}
+              </small>
+            </div>
+          {% endif %}
+        {% endfor %}
+
         {% for currentofficehour in site.data.calendar.officehours %}
           {% if currentdate == currentofficehour.date %}
             {% assign currentlocation = currentofficehour.location %}
@@ -137,19 +150,6 @@ This page is still being migrated and developed. All content remains subject to 
                   {{ currentlocationitem.time }}<br>
                   {{ currentlocationitem.location }}<br>
                 {% endfor %}
-              </small>
-            </div>
-          {% endif %}
-        {% endfor %}
-
-        {% for currentassignment in site.data.calendar.assignments %}
-          {% if currentdate == currentassignment.date %}
-            <div class="item assignment">
-              <small>
-                  {% if currentassignment.link != nil %}<a href="{{ site.baseurl }}/{{ currentassignment.link }}">{% endif %}
-                  {{ currentassignment.name }}<br>
-                  {% if currentassignment.duenote != nil %}{{ currentassignment.duenote }}{% endif %}
-                  {% if currentassignment.link != nil %}</a>{% endif %}
               </small>
             </div>
           {% endif %}
