@@ -28,9 +28,19 @@ locations:
   officehoursjames:
     - time: "3:30 - 4:30"
       location: "CSE 632"
-#  officehoursdavid:
-#    - time: "12:00 - 1:00"
-#      location: "CSE 021"
+  officehoursdhruv:
+    - time: "1:30 - 2:30"
+      location: "CSE 021"
+  officehourskailey:
+    - time: "2:00 - 3:00"
+      location: "CSE 220"
+  officehoursnigini:
+    - time: "3:30 - 4:30"
+      location: "CSE 021"
+  officehoursnigini007:
+    - time: "3:30 - 4:30"
+      location: "CSE 007"
+
 #  officehourseunice:
 #    - time: "1:45 - 2:45"
 #      location: "CSE 021"
@@ -271,7 +281,8 @@ aways:
   - date: "2017-09-28"
     name: Nigini Away
   - date: "2017-09-29"
-    name: Nigini Away
+    name: Nigini Away,<Br>
+          Kailey in All Sections
   - date: "2017-10-02"
     name: Nigini Away
   - date: "2017-10-03"
@@ -330,28 +341,95 @@ officehours:
     name: "James Office Hour"
     location: officehoursjames
 
-#  - date: "2017-01-12"
-#    name: "David Office Hour"
-#    location: officehoursdavid
-#  - date: "2017-01-19"
-#    name: "David Office Hour"
-#    location: officehoursdavid
-#  - date: "2017-01-26"
-#    name: "David Office Hour"
-#    location: officehoursdavid
-#  - date: "2017-02-02"
-#    name: "David Office Hour"
-#    location: officehoursdavid
-#  - date: "2017-02-16"
-#    name: "David Office Hour"
-#    location: officehoursdavid
-#  - date: "2017-02-23"
-#    name: "David Office Hour"
-#    location: officehoursdavid
-#  - date: "2017-03-09"
-#    name: "David Office Hour"
-#    location: officehoursdavid
+  - date: "2017-10-05"
+    name: "Dhruv Office Hour"
+    location: officehoursdhruv
+  - date: "2017-10-12"
+    name: "Dhruv Office Hour"
+    location: officehoursdhruv
+  - date: "2017-10-19"
+    name: "Dhruv Office Hour"
+    location: officehoursdhruv
+  - date: "2017-10-26"
+    name: "Dhruv Office Hour"
+    location: officehoursdhruv
+  - date: "2017-11-02"
+    name: "Dhruv Office Hour"
+    location: officehoursdhruv
+  - date: "2017-11-09"
+    name: "Dhruv Office Hour"
+    location: officehoursdhruv
+  - date: "2017-11-16"
+    name: "Dhruv Office Hour"
+    location: officehoursdhruv
+  - date: "2017-11-30"
+    name: "Dhruv Office Hour"
+    location: officehoursdhruv
+  - date: "2017-12-07"
+    name: "Dhruv Office Hour"
+    location: officehoursdhruv
 
+  - date: "2017-10-04"
+    name: "Kailey Office Hour"
+    location: officehourskailey
+  - date: "2017-10-11"
+    name: "Kailey Office Hour"
+    location: officehourskailey
+  - date: "2017-10-18"
+    name: "Kailey Office Hour"
+    location: officehourskailey
+  - date: "2017-10-25"
+    name: "Kailey Office Hour"
+    location: officehourskailey
+  - date: "2017-11-01"
+    name: "Kailey Office Hour"
+    location: officehourskailey
+  - date: "2017-11-08"
+    name: "Kailey Office Hour"
+    location: officehourskailey
+  - date: "2017-11-15"
+    name: "Kailey Office Hour"
+    location: officehourskailey
+  - date: "2017-11-22"
+    name: "Kailey Office Hour"
+    location: officehourskailey
+  - date: "2017-11-29"
+    name: "Kailey Office Hour"
+    location: officehourskailey
+  - date: "2017-12-06"
+    name: "Kailey Office Hour"
+    location: officehourskailey
+
+  - date: "2017-10-09"
+    name: "Nigini Office Hour"
+    location: officehoursnigini
+  - date: "2017-10-16"
+    name: "Nigini Office Hour"
+    location: officehoursnigini
+  - date: "2017-10-23"
+    name: "Nigini Office Hour"
+    location: officehoursnigini
+  - date: "2017-10-30"
+    name: "Nigini Office Hour"
+    location: officehoursnigini
+  - date: "2017-11-06"
+    name: "Nigini Office Hour"
+    location: officehoursnigini
+  - date: "2017-11-13"
+    name: "Nigini Office Hour"
+    location: officehoursnigini
+  - date: "2017-11-20"
+    name: "Nigini Office Hour"
+    location: officehoursnigini
+  - date: "2017-11-27"
+    name: "Nigini Office Hour"
+    location: officehoursnigini007
+  - date: "2017-12-04"
+    name: "Nigini Office Hour"
+    location: officehoursnigini
+  - date: "2017-12-11"
+    name: "Nigini Office Hour"
+    location: officehoursnigini
 
 holidays:
   - date: "2017-11-10"
