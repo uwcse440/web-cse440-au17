@@ -2,32 +2,33 @@
 layout: base/bar/bar-sidebar-none
 title: "Readings"
 
-link_reading_contextual_inquiry: https://canvas.uw.edu/courses/1098203/assignments/3571765
-due_reading_contextual_inquiry: Uploaded Thursday, January 12, 2017 (before section on Friday, January 13, 2017)
-link_reading_contextual_inquiry_file_contextual_inquiry: https://canvas.uw.edu/files/39906874/download?download_frd=1
-link_reading_contextual_inquiry_file_ideo_method_cards: https://canvas.uw.edu/files/40115291/download?download_frd=1
-link_reading_contextual_inquiry_file_universal_methods: https://canvas.uw.edu/files/39906877/download?download_frd=1
+# Reading 1
+link_reading_design_research: https://canvas.uw.edu/courses/1173784/assignments/3911723
+due_reading_design_research: Uploaded Thursday, October 5, 2017 (before section on Friday, October 6, 2017)
+link_reading_design_research_file_contextual_inquiry: https://canvas.uw.edu/files/44052665/download?download_frd=1
+link_reading_design_research_file_ideo_method_cards: https://canvas.uw.edu/files/44052662/download?download_frd=1
+link_reading_design_research_file_universal_methods: https://canvas.uw.edu/files/44052664/download?download_frd=1
 
-link_reading_storyboarding: https://canvas.uw.edu/courses/1098203/assignments/3584938
-link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
-link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/40119295/download?download_frd=1
-link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/40119348/download?download_frd=1
-link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/40115442/download?download_frd=1
-link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/40161132/download?download_frd=1
-link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/40057647/download?download_frd=1
-due_reading_storyboarding: Uploaded Friday, January 27, 2017
+#link_reading_storyboarding: https://canvas.uw.edu/courses/1098203/assignments/3584938
+#link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
+#link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/40119295/download?download_frd=1
+#link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/40119348/download?download_frd=1
+#link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/40115442/download?download_frd=1
+#link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/40161132/download?download_frd=1
+#link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/40057647/download?download_frd=1
+#due_reading_storyboarding: Uploaded Friday, January 27, 2017
 
-link_reading_paper_prototyping: https://canvas.uw.edu/courses/1098203/assignments/3595630
-link_reading_paper_prototyping_file_tiny_fingers: https://canvas.uw.edu/files/40281117/download?download_frd=1
-link_reading_paper_prototyping_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1
-link_reading_paper_prototyping_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1
-link_reading_paper_prototyping_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1
-link_reading_paper_prototyping_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1
-due_reading_paper_prototyping: Uploaded Friday, February 3, 2017
+#link_reading_paper_prototyping: https://canvas.uw.edu/courses/1098203/assignments/3595630
+#link_reading_paper_prototyping_file_tiny_fingers: https://canvas.uw.edu/files/40281117/download?download_frd=1
+#link_reading_paper_prototyping_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1
+#link_reading_paper_prototyping_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1
+#link_reading_paper_prototyping_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1
+#link_reading_paper_prototyping_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1
+#due_reading_paper_prototyping: Uploaded Friday, February 3, 2017
 
-link_reading_patterns: https://canvas.uw.edu/courses/1098203/assignments/3608154
-link_reading_patterns_file_design_of_sites: https://canvas.uw.edu/files/40656356/download?download_frd=1
-due_reading_patterns: Uploaded Friday, February 24, 2017
+#link_reading_patterns: https://canvas.uw.edu/courses/1098203/assignments/3608154
+#link_reading_patterns_file_design_of_sites: https://canvas.uw.edu/files/40656356/download?download_frd=1
+#due_reading_patterns: Uploaded Friday, February 24, 2017
 
 #link_reading_critique: https://canvas.uw.edu/courses/987987/assignments/3016470
 #date_reading_critique: Friday, October 16, 2015
@@ -36,28 +37,28 @@ due_reading_patterns: Uploaded Friday, February 24, 2017
 #link_reading_research_paper: https://canvas.uw.edu/courses/987987/assignments/3046597
 #date_reading_research: Friday, December 4, 2015
 
-link_reading_empathy: https://canvas.uw.edu/courses/1138137/files?preview=41599091
-due_reading_empathy: Uploaded Thursday, April 13, 2017 (before section on Friday, April 14, 2017)
-link_reading_empathy_file_empathy: https://canvas.uw.edu/files/41599091/download?download_frd=1
+#link_reading_empathy: https://canvas.uw.edu/courses/1138137/files?preview=41599091
+#due_reading_empathy: Uploaded Thursday, April 13, 2017 (before section on Friday, April 14, 2017)
+#link_reading_empathy_file_empathy: https://canvas.uw.edu/files/41599091/download?download_frd=1
 #link_reading_empathy_file_ideo_method_cards: https://canvas.uw.edu/files/40115291/download?download_frd=1
 #link_reading_empathy_file_universal_methods: https://canvas.uw.edu/files/39906877/download?download_frd=1
 
-link_reading_storyboarding: https://canvas.uw.edu/courses/1138137/assignments/3728281
-link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
-link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/42159475/download?download_frd=1
-link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/42159629/download?download_frd=1
-link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/42159647/download?download_frd=1
-link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/42159644/download?download_frd=1
-link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/42159638/download?download_frd=1
-due_reading_storyboarding: Uploaded Tuesday, May 2, 2017
+#link_reading_storyboarding: https://canvas.uw.edu/courses/1138137/assignments/3728281
+#link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
+#link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/42159475/download?download_frd=1
+#link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/42159629/download?download_frd=1
+#link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/42159647/download?download_frd=1
+#link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/42159644/download?download_frd=1
+#link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/42159638/download?download_frd=1
+#due_reading_storyboarding: Uploaded Tuesday, May 2, 2017
 
-link_reading_paper_prototyping: https://canvas.uw.edu/courses/1138137/assignments/3735329
-link_reading_usability_testing_file: https://canvas.uw.edu/files/41702842/download?download_frd=1
+#link_reading_paper_prototyping: https://canvas.uw.edu/courses/1138137/assignments/3735329
+#link_reading_usability_testing_file: https://canvas.uw.edu/files/41702842/download?download_frd=1
 #link_reading_paper_prototyping_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1
 #link_reading_paper_prototyping_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1
 #link_reading_paper_prototyping_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1
 #link_reading_paper_prototyping_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1
-due_reading_paper_prototyping: Uploaded Friday, May 12, 2017
+#due_reading_paper_prototyping: Uploaded Friday, May 12, 2017
 
 ---
 
@@ -82,21 +83,21 @@ We will make additional resources available for students as interested.
 
 # Assigned Readings
 
-<a name="contextual_inquiry"></a>
+<a name="design_research"></a>
 
-### Reading 1: Contextual Inquiry
+### Reading 1: Contextual Inquiry and Design Research
 
 Due:
-{% if page.due_reading_contextual_inquiry != nil %}{{ page.due_reading_contextual_inquiry }}{% else %}`Date to be added`{% endif %}.
+{% if page.due_reading_design_research != nil %}{{ page.due_reading_design_research }}{% else %}`Date to be added`{% endif %}.
 
 Read:
 
-- [Beyer and Holtzblatt (1997). Contextual Design. Chapter 3.]({{ page.link_reading_contextual_inquiry_file_contextual_inquiry }})
+- [Beyer and Holtzblatt (1997). Contextual Design. Chapter 3.]({{ page.link_reading_design_research_file_contextual_inquiry }})
 
 Optionally, check out these additional design method resources:
 
-- [IDEO (2003). Method Cards.]({{ link_reading_contextual_inquiry_file_ideo_method_cards }})
-- [Martin and Hanington (2012). Universal Methods of Design.]({{ page.link_reading_contextual_inquiry_file_universal_methods }})
+- [IDEO (2003). Method Cards.]({{ link_reading_design_research_file_ideo_method_cards }})
+- [Martin and Hanington (2012). Universal Methods of Design.]({{ page.link_reading_design_research_file_universal_methods }})
   
 After reading, consider how you might apply this approach to a project proposed in Assignment 1b.
 You may complete this reading in terms of your own project proposal,
@@ -121,7 +122,9 @@ No more than one page of text in PDF format.
 
 Submit via Canvas here:
 
-{% if page.link_reading_contextual_inquiry != nil %}<{{ page.link_reading_contextual_inquiry }}>{% else %}`Link to be added`{% endif %}
+{% if page.link_reading_design_research != nil %}<{{ page.link_reading_design_research }}>{% else %}`Link to be added`{% endif %}
+
+{% comment %}
 
 <a name="storyboarding"></a>
 
@@ -466,3 +469,5 @@ No more than one page of text in PDF format.
 Submit via Canvas here:
 
 {% if page.link_reading_paper_prototyping != nil %}<{{ page.link_reading_paper_prototyping }}>{% else %}`Link to be added`{% endif %}
+
+{% endcomment %}
