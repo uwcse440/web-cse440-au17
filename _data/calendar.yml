@@ -62,6 +62,7 @@ lectures:
   - date: "2017-09-28"
     name: "Introduction,<br>Project Overview,<br>and Personal Informatics"
     slides: "slides/lecture/l01-intro.pdf"
+    panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5e7b3a08-dcc7-41b8-a61d-0dc83414fc79"
   - date: "2017-10-03"
     name: "Design Diamond"
     slides: "slides/lecture/l02-designdiamond.pdf"

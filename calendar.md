@@ -60,16 +60,20 @@ This page is still being migrated and developed. All content remains subject to 
             {% endif %}
 
             <div class="item lecture">
-              {% if currentlecture.slides != nil %}
-                <a href="{{ site.baseurl }}/{{ currentlecture.slides }}">
+              {% if currentlecture.name != nil %}
+                {{ currentlecture.name }}
+              {% else %}
+                Lecture
               {% endif %}
-                {% if currentlecture.name != nil %}
-                  {{ currentlecture.name }}<br>
-                {% else %}
-                  Lecture<br>
-                {% endif %}
+              <br>
               {% if currentlecture.slides != nil %}
-                </a>
+                [<a href="{{ site.baseurl }}/{{ currentlecture.slides }}">slides</a>]
+              {% endif %}
+              {% if currentlecture.panopto != nil %}
+                [<a href="{{ currentlecture.panopto }}">video</a>]
+              {% endif %}
+              {% if currentlecture.slides != nil or currentlecture.video != nil %}
+                <br>
               {% endif %}
               <small>
                 {% for currentlocationitem in site.data.calendar.locations[currentlocation] %}
