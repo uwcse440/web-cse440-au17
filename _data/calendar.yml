@@ -35,8 +35,8 @@ locations:
     - time: "1:30 - 2:30"
       location: "CSE 021"
   officehourskailey:
-    - time: "2:00 - 3:00"
-      location: "CSE 220"
+    - time: "3:30 - 4:30"
+      location: "CSE 021"
   officehoursnigini:
     - time: "3:30 - 4:30"
       location: "CSE 021"
