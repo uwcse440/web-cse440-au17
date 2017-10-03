@@ -282,7 +282,7 @@ aways:
   - date: "2017-09-28"
     name: Nigini Away
   - date: "2017-09-29"
-    name: Nigini Away,<Br>
+    name: Nigini Away,<br>
           Kailey in All Sections
   - date: "2017-10-02"
     name: Nigini Away
@@ -293,7 +293,14 @@ aways:
   - date: "2017-10-05"
     name: Nigini Away
   - date: "2017-10-06"
-    name: Nigini Away
+    name: Nigini Away,<br>
+          Kailey in All Sections
+  - date: "2017-10-13"
+    name: Dhruv Away,<br>
+          Jihoon Away Afternoon,<br>
+          Jihoon in Morning Sections,<br>
+          Chris in All Sections,<br>
+          Nigini in All Sections<br>
   - date: "2017-10-23"
     name: >
           James Away<br>
