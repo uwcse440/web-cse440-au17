@@ -64,7 +64,7 @@ lectures:
     slides: "slides/lecture/l01-intro.pdf"
   - date: "2017-10-03"
     name: "Design Diamond"
-#    slides: "slides/lecture/l05-designdiamond.pdf"
+    slides: "slides/lecture/l02-designdiamond.pdf"
     # notes: "Required for Project 2f"
   - date: "2017-10-05"
     name: "Contextual Inquiry,<br>Design Research"
