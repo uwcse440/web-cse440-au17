@@ -189,8 +189,9 @@ constraints of this course, and worthy of investigation.
 
 Due: {{ page.due_project_1a }}
 
-Friday's section will focus on brainstorming potential project directions.
-You will get started on thinking, and help seed this brainstorming, with some individual ideas.
+Friday's section will focus on brainstorming potential directions for project proposals.
+
+The goal of this milestone is to help get you started in thinking up some ideas, which will also help seed brainstorming.
 
 Propose three starting points for brainstorming domains, problems, and goals that might be supported via self-tracking.
 
@@ -238,7 +239,7 @@ This milestone will be graded on a scale of __3 points__:
 
 Due: {{ page.due_project_1b }}
 
-Propose and analyze a problem that could form the basis of a design project for this class.
+The goal of this milestone is to propose and analyze a problem that could form the basis of a design project for this class.
 
 In one paragraph, describe the design problem and motivation. 
 This description should convince the reader that this is a difficult and interesting problem, worth spending a quarter considering. 
