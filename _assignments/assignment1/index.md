@@ -10,7 +10,7 @@ link_project_1b: https://canvas.uw.edu/courses/1173784/assignments/3902388
 
 due_project_1c: Submitted Wednesday, October 4, 2017
 link_project_1c_projects: https://canvas.uw.edu/courses/1173784/discussion_topics
-# link_project_1c_bids: https://goo.gl/forms/zMHvrB3HfbfT6J0x1
+link_project_1c_bids: https://goo.gl/forms/AdQ11KQeQpMZgDv72
 ---
 
 {% comment %}
