@@ -86,7 +86,7 @@ Check the calendar for non-standard times, locations, or staffing.
 __Office Hours__: 
 
 - James, Tuesdays 3:30 to 4:30, CSE 632
-- Kailey, Wednesdays, 2:00 to 3:00, CSE 220
+- Kailey, Wednesdays, 3:30 to 4:30, CSE 021
 - Dhruv, Thursdays, 1:30 to 2:30, CSE 021
 - Nigini, Mondays, 3:30 to 4:30, CSE 021
 
