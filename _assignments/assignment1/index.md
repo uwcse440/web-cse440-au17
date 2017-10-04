@@ -183,9 +183,9 @@ constraints of this course, and worthy of investigation.
 
 # Deliverables
 
-<a name="project_brainstorm"></a>
+<a name="proposal_brainstorm"></a>
 
-## 1a: Project Brainstorm
+## 1a: Proposal Brainstorm
 
 Due: {{ page.due_project_1a }}
 
