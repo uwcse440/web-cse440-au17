@@ -34,9 +34,11 @@ due_project_2i: Uploaded Wednesday, November 1, 2017 (before class on Thursday, 
 
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 # Overview
 
@@ -208,6 +210,10 @@ This milestone will be graded on a scale of __3 points__ based on participation 
 
 ## 2b: Design Research Plan
 
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
+</div>
+
 Due: {{ page.due_project_2b }}
 
 In one paragraph, describe the people who might use your design and other stakeholders for your design. 
@@ -275,6 +281,10 @@ This milestone will be graded on a scale of __3 points__:
 
 ## 2c: Design Research Check-In
 
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
+</div>
+
 Due: {{ page.due_project_2c }}
 
 Complete design research with at least one participant prior to this check-in.
@@ -327,6 +337,10 @@ This milestone will be graded on a scale of __6 points__:
 <a name="design_research_review"></a>
 
 ## 2d: Design Research Review
+
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
+</div>
 
 Due: {{ page.due_project_2d }}
 
@@ -418,6 +432,10 @@ This milestone will be graded on a scale of __6 points__:
 
 ## 2e: Task Review
 
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
+</div>
+
 Due: {{ page.due_project_2e }}
 
 Building on what you learned in your design research, design six tasks that you believe are integral to your overall design goal:
@@ -462,6 +480,10 @@ This milestone will be graded on a scale of __6 points__:
 <a name="design_checkin"></a>
 
 ## 2f: Design Check-In ("3x4")
+
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
+</div>
 
 Due: {{ page.due_project_2f }}
 
@@ -530,6 +552,10 @@ This milestone will be graded on a scale of __6 points__:
 
 ## 2g: Design Review ("1x2")
 
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
+</div>
+
 Due: {{ page.due_project_2g }}
 
 From your design sketches, select one design that you will refine in the remainder of this course. 
@@ -590,6 +616,10 @@ This milestone will be graded on a scale of __6 points__:
 <a name="final_report">
 
 ## 2h: Final Report
+
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
+</div>
 
 Due: {{ page.due_project_2h }}
 
@@ -708,6 +738,10 @@ This report will be graded on a scale of __25 points__:
 <a name="presentation"></a>
 
 ## Presentation
+
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed. All content remains subject to change.
+</div>
 
 Due: {{ page.due_project_2i }}
 
