@@ -3,18 +3,16 @@ layout: base/bar/bar-sidebar-none
 title: "Assignment 2: Getting the Right Design"
 
 due_project_2a: Completed in section on Friday, October 6, 2017
-# link_project_2a: https://canvas.uw.edu/courses/1098203/assignments/3577751
+link_project_2a: https://canvas.uw.edu/courses/1173784/assignments/3914615
 
 due_project_2b: Uploaded Monday, October 9, 2017 (before class on Tuesday, October 10, 2017)
-# link_project_2b: https://canvas.uw.edu/courses/1098203/assignments/3577778
-# #link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985
+link_project_2b: https://canvas.uw.edu/courses/1173784/assignments/3914617
 
 due_project_2c: Uploaded Thursday, October 12, 2017 (before section on Friday, October 13, 2017)
-# link_project_2c: https://canvas.uw.edu/courses/1098203/assignments/3577780
+link_project_2c: https://canvas.uw.edu/courses/1173784/assignments/3914618
 
 due_project_2d: Uploaded Monday, October 16, 2017 (before class on Tuesday, October 17, 2017)
-# link_project_2d: https://canvas.uw.edu/courses/1098203/assignments/3577785
-# #link_project_2d_critique: https://canvas.uw.edu/courses/987987/assignments/3024240
+link_project_2d: https://canvas.uw.edu/courses/1173784/assignments/3914621
 
 due_project_2e: Uploaded Thursday, October 19, 2017 (before class on Friday, October 20, 2017)
 # link_project_2e: https://canvas.uw.edu/courses/1098203/assignments/3577792
