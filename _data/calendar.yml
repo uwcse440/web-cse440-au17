@@ -70,7 +70,7 @@ lectures:
     # notes: "Required for Project 2f"
   - date: "2017-10-05"
     name: "Contextual Inquiry,<br>Design Research"
-#    slides: "slides/lecture/l03-contextualinquiry.pdf"
+    slides: "slides/lecture/l03-designresearch.pdf"
     # notes: "Required for Project 2b, Design Research Planning Over Weekend"
   - date: "2017-10-10"
     location: "lecturesdenny"
