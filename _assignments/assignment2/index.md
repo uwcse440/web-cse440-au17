@@ -3,18 +3,16 @@ layout: base/bar/bar-sidebar-none
 title: "Assignment 2: Getting the Right Design"
 
 due_project_2a: Completed in section on Friday, October 6, 2017
-# link_project_2a: https://canvas.uw.edu/courses/1098203/assignments/3577751
+link_project_2a: https://canvas.uw.edu/courses/1173784/assignments/3914615
 
 due_project_2b: Uploaded Monday, October 9, 2017 (before class on Tuesday, October 10, 2017)
-# link_project_2b: https://canvas.uw.edu/courses/1098203/assignments/3577778
-# #link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985
+link_project_2b: https://canvas.uw.edu/courses/1173784/assignments/3914617
 
 due_project_2c: Uploaded Thursday, October 12, 2017 (before section on Friday, October 13, 2017)
-# link_project_2c: https://canvas.uw.edu/courses/1098203/assignments/3577780
+link_project_2c: https://canvas.uw.edu/courses/1173784/assignments/3914618
 
 due_project_2d: Uploaded Monday, October 16, 2017 (before class on Tuesday, October 17, 2017)
-# link_project_2d: https://canvas.uw.edu/courses/1098203/assignments/3577785
-# #link_project_2d_critique: https://canvas.uw.edu/courses/987987/assignments/3024240
+link_project_2d: https://canvas.uw.edu/courses/1173784/assignments/3914621
 
 due_project_2e: Uploaded Thursday, October 19, 2017 (before class on Friday, October 20, 2017)
 # link_project_2e: https://canvas.uw.edu/courses/1098203/assignments/3577792
@@ -167,7 +165,7 @@ More specifically, you will do the following:
 
 Due: {{ page.due_project_2a }}
 
-The goal of this assignment is to begin thinking about how to plan effective design research to inform your design process.
+The goal of this milestone is to begin thinking about how to plan effective design research to inform your design process.
 
 Generate 5 to 10 different ideas related to each of the following aspects of your project proposal:
 
@@ -210,33 +208,52 @@ This milestone will be graded on a scale of __3 points__ based on participation 
 
 ## 2b: Design Research Plan
 
-<div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed. All content remains subject to change.
-</div>
-
 Due: {{ page.due_project_2b }}
 
-In one paragraph, describe the people who might use your design and other stakeholders for your design. 
+The goal of this milestone is to develop an initial plan for your design research.
+
+In one paragraph, describe the people who might use your design and other stakeholders to consider in your design. 
 Describe the particular design research methods and participants you plan to pursue,
-including such details as their background and the environment where you will observe their current practices.
+including such details as their background and the environment where you will examine their current practices.
 Give enough information to convince us that you can actually find and engage with your target participants in the next week.
 
-For example, your target participants should not be "doctors" but instead a specific group of doctors 
-(e.g., Family Practitioners in the UW Roosevelt Clinic). 
-If gaining access to the target participants is non-trivial (e.g., as with busy doctors), 
-describe the steps you have already taken to gain access and your plans to recover if you are unable to gain access.
-Indicate when you will be conducting your design research, being as specific as possible.
+- For example, your target participants should not be "doctors" but instead a specific group of doctors 
+  (e.g., Family Practitioners in the UW Roosevelt Clinic). 
+  If gaining access to the target participants is non-trivial (e.g., as with busy doctors), 
+  describe the steps you have already taken to gain access and your plans to recover if you are unable to gain access.
+  Indicate when you will be conducting your design research, being as specific as possible.
 
 In another paragraph, describe the methods you will use to engage with and learn from these people.
 Our starting assumption is that you will conduct contextual inquiries with three participants.
 You can and should propose alternative or additional design research methods according to your needs.
-Please be as specific as possible, providing relevant details for you proposed methods.
+Please be as specific as possible, providing relevant details for you proposed methods. For example:
 
-For example, if you propose contextual inquiries, discuss current behaviors you want to observe and your planned focus.
-If you propose interviews, discuss the types of questions you plan to explore.
-If you propose a diary study, discuss what type of data you plan to ask participants to bring or collect.
+- If you propose contextual inquiries, discuss current behaviors you want to observe and your planned focus.
+- If you propose interviews, discuss the types of questions you plan to explore.
+- If you propose a diary study, discuss what type of data you plan to ask participants to bring or collect.
+
+On a second page, provide more detail regarding your primary proposed method. For example:
+
+- If you propose contextual inquiries, enumerate what activities you intend to observe, 
+  what focus you intend to bring to observation of each activity,
+  how you will approach the development of partnership, 
+  and any other strategies you intend to pursue for gaining insight through your observations.
+- If you propose interviews, give an example set of talking points, such as these
+  (note these are all longer than a page, but intended to illustrate a thorough script):
+  - [Menstrual Interview Protocol](https://canvas.uw.edu/files/44093099/download?download_frd=1)
+  - [Migraine Interview Protocol](https://canvas.uw.edu/files/44093100/download?download_frd=1)
+  - [Migraine Provider Protocol](https://canvas.uw.edu/files/44093101/download?download_frd=1)
+- If you propose a diary study, give details of what and how you will ask participants to diary.  
 
 ### Samples from Prior Offerings
+
+<div class="alert alert-warning" markdown="1">
+The request for more detail is a new part of this milestone, and does not appear in prior samples.
+
+Relative to prior plans, our goal in soliciting this additional detail is to:
+- Encourage you to work through more of the details.
+- Help improve those details through critique and peer feedback.
+</div>
 
 Samples from prior offerings include:
 
@@ -249,25 +266,11 @@ Be sure to understand and carefully consider project requirements and feedback f
 
 ### Submission
 
-No more than one page of text in PDF format. Submit via Canvas here:
+No more than two pages of text in PDF format. Submit via Canvas here:
 
 {% if page.link_project_2b != nil %}<{{ page.link_project_2b }}>{% else %}`Link to be added`{% endif %}
 
-In lecture, check with the course staff and be prepared to discuss your design research.
-
-{% comment %}
-### In-Class Peer Critique
-
-In lecture, be prepared to discuss the plan with other teams and the course staff.
-
-Be sure to take notes during critique. We will provide a worksheet you can use:
-
-[2b-critique-worksheet-ciplan.pdf]({{ site.baseurl }}/assignments/assignment2/2b-critique-worksheet-ciplan.pdf)
-
-After class, submit images of your notes in PDF format. Submit via Canvas here:
-
-{% if page.link_project_2b_critique != nil %}<{{ page.link_project_2b_critique }}>{% else %}`Link to be added`{% endif %}
-{% endcomment %}
+Be prepared to discuss your design research with other teams and the course staff.
 
 ### Grading
 
@@ -281,11 +284,11 @@ This milestone will be graded on a scale of __3 points__:
 
 ## 2c: Design Research Check-In
 
-<div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed. All content remains subject to change.
-</div>
-
 Due: {{ page.due_project_2c }}
+
+The goal of this milestone is to begin your design research,
+reflect on what you observe and learn,
+then update your plans for additional design research.
 
 Complete design research with at least one participant prior to this check-in.
 You hopefully learned something about the needs of people who might use your design,
@@ -325,7 +328,7 @@ No more than one page of text in PDF format. Submit via Canvas here:
 Names of participants should be replaced with pseudonyms in all documents.
 It is important to protect participant anonymity, even in the case that reporting seems harmless.
 
-In section, be prepared to discuss your design research with other teams and the course staff.
+Be prepared to discuss your design research with other teams and the course staff.
 
 ### Grading
 
@@ -338,11 +341,10 @@ This milestone will be graded on a scale of __6 points__:
 
 ## 2d: Design Research Review
 
-<div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed. All content remains subject to change.
-</div>
-
 Due: {{ page.due_project_2d }}
+
+The goal of this milestone is to reflect on what you observed and learned in your design research,
+organizing observations around themes to tasks to help inform your design.
 
 #### Themes
 
@@ -405,21 +407,7 @@ Submit via Canvas here:
 Names of participants should be replaced with pseudonyms in all documents.
 It is important to protect participant anonymity, even in the case that reporting seems harmless.
 
-In lecture, check with the course staff and be prepared to discuss your design research.
-
-{% comment %}
-### In-Class Peer Critique
-
-In lecture, be prepared to discuss your design research with other teams and the course staff.
-
-Be sure to take notes during critique. We will provide a worksheet you can use:
-
-[2d-critique-worksheet-cireview.pdf]({{ site.baseurl }}/assignments/assignment2/2d-critique-worksheet-cireview.pdf)
-
-After class, submit images of your notes in PDF format. Submit via Canvas here:
-
-{% if page.link_project_2d_critique != nil %}<{{ page.link_project_2d_critique }}>{% else %}`Link to be added`{% endif %}
-{% endcomment %}
+Be prepared to discuss your design research with other teams and the course staff.
 
 ### Grading
 
@@ -469,7 +457,7 @@ Submit via Canvas here:
 
 {% if page.link_project_2e != nil %}<{{ page.link_project_2e }}>{% else %}`Link to be added`{% endif %}
 
-In section, be prepared to discuss your tasks with other teams and the course staff.
+Be prepared to discuss your design research with other teams and the course staff.
 
 ### Grading
 
@@ -526,21 +514,7 @@ Submit via Canvas here:
 
 {% if page.link_project_2f != nil %}<{{ page.link_project_2f }}>{% else %}`Link to be added`{% endif %}
 
-In lecture, check with the course staff and be prepared to discuss your designs.
-
-{% comment %}
-### In-Class Peer Critique
-
-In lecture, be prepared to discuss your design sketches with other teams and the course staff.
-
-Be sure to take notes during critique. We will provide a worksheet you can use:
-
-[2f-critique-worksheet-designcheckin.pdf]({{ site.baseurl }}/assignments/assignment2/2f-critique-worksheet-designcheckin.pdf)
-
-After class, submit images of your notes in PDF format. Submit via Canvas here:
-
-{% if page.link_project_2f_critique != nil %}<{{ page.link_project_2f_critique }}>{% else %}`Link to be added`{% endif %}
-{% endcomment %}
+Be prepared to discuss your designs with other teams and the course staff.
 
 ### Grading
 
@@ -604,7 +578,7 @@ Submit via Canvas here:
 
 {% if page.link_project_2g != nil %}<{{ page.link_project_2g }}>{% else %}`Link to be added`{% endif %}
 
-In section, be prepared to discuss your choices and storyboards with other teams and the course staff.
+Be prepared to discuss your choices and storyboards with other teams and the course staff.
 
 ### Grading
 
