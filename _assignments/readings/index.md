@@ -96,7 +96,7 @@ Read:
 
 Optionally, check out these additional design method resources:
 
-- [IDEO (2003). Method Cards.]({{ link_reading_design_research_file_ideo_method_cards }})
+- [IDEO (2003). Method Cards.]({{ page.link_reading_design_research_file_ideo_method_cards }})
 - [Martin and Hanington (2012). Universal Methods of Design.]({{ page.link_reading_design_research_file_universal_methods }})
   
 After reading, consider how you might apply this approach to a project proposed in Assignment 1b.
