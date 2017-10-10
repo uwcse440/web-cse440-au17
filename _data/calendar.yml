@@ -78,7 +78,7 @@ lectures:
     name: "Critique"
   - date: "2017-10-12"
     name: "Task Analysis"
-#    slides: "slides/lecture/l06-critique-taskanalysis.pdf"
+    slides: "slides/lecture/l04-critique.pdf"
     # notes: "Required for Project 2d"
   - date: "2017-10-17"
     name: "Design of Everyday Things"
