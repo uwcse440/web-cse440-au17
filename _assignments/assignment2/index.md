@@ -15,7 +15,7 @@ due_project_2d: Uploaded Monday, October 16, 2017 (before class on Tuesday, Octo
 link_project_2d: https://canvas.uw.edu/courses/1173784/assignments/3914621
 
 due_project_2e: Uploaded Thursday, October 19, 2017 (before class on Friday, October 20, 2017)
-# link_project_2e: https://canvas.uw.edu/courses/1098203/assignments/3577792
+link_project_2e: https://canvas.uw.edu/courses/1173784/assignments/3925217
 
 due_project_2f: Uploaded Monday, October 23, 2017 (before class on Tuesday, October 24, 2017)
 # link_project_2f: https://canvas.uw.edu/courses/1098203/assignments/3577761
