@@ -86,6 +86,7 @@ lectures:
   - date: "2017-10-17"
     name: "Design of Everyday Things"
     slides: "slides/lecture/l06-doet.pdf"
+    panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b744838-59fc-44d0-aeab-31d89ba3a3a8"
   - date: "2017-10-19"
     name: "Storyboarding,<br>Video Prototyping"
 #    slides: "slides/lecture/l07-storyboarding.pdf"
