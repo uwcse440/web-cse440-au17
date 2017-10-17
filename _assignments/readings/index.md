@@ -2,72 +2,67 @@
 layout: base/bar/bar-sidebar-none
 title: "Readings"
 
+####################
 # Reading 1
+####################
 link_reading_design_research: https://canvas.uw.edu/courses/1173784/assignments/3911723
 due_reading_design_research: Uploaded Thursday, October 5, 2017 (before section on Friday, October 6, 2017)
 
 link_reading_design_research_file_contextual_inquiry: https://canvas.uw.edu/files/44052665/download?download_frd=1
+# Additional Resources
 link_reading_design_research_file_ideo_method_cards: https://canvas.uw.edu/files/44052662/download?download_frd=1
 link_reading_design_research_file_universal_methods: https://canvas.uw.edu/files/44052664/download?download_frd=1
 
+####################
 # Reading 2
+####################
 #link_reading_storyboarding: https://canvas.uw.edu/courses/1098203/assignments/3584938
 due_reading_storyboarding: Uploaded Saturday, October 21, 2017
 
 link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
 link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/44348280/download?download_frd=1
+# Additional Resources
 link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/44348289/download?download_frd=1
 link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/44348282/download?download_frd=1
 link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/44348283/download?download_frd=1
 link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/44348284/download?download_frd=1
 
+####################
+# Reading 3
+####################
 #link_reading_paper_prototyping: https://canvas.uw.edu/courses/1098203/assignments/3595630
-#link_reading_paper_prototyping_file_tiny_fingers: https://canvas.uw.edu/files/40281117/download?download_frd=1
-#link_reading_paper_prototyping_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1
-#link_reading_paper_prototyping_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1
-#link_reading_paper_prototyping_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1
-#link_reading_paper_prototyping_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1
-#due_reading_paper_prototyping: Uploaded Friday, February 3, 2017
+due_reading_paper_prototyping: Uploaded Saturday, October 28, 2017
 
+link_reading_paper_prototyping_file_tiny_fingers: https://canvas.uw.edu/files/44349666/download?download_frd=1
+link_reading_paper_prototyping_file_snyder_chapter4: https://canvas.uw.edu/files/44349663/download?download_frd=1
+link_reading_paper_prototyping_file_snyder_chapter8: https://canvas.uw.edu/files/44349665/download?download_frd=1
+link_reading_paper_prototyping_file_observing_users: https://canvas.uw.edu/files/44349667/download?download_frd=1
+# Additional Resources
+link_reading_paper_prototyping_file_snyder: https://canvas.uw.edu/files/44349669/download?download_frd=1
+
+####################
+# Reading 4
+####################
 #link_reading_patterns: https://canvas.uw.edu/courses/1098203/assignments/3608154
-#link_reading_patterns_file_design_of_sites: https://canvas.uw.edu/files/40656356/download?download_frd=1
-#due_reading_patterns: Uploaded Friday, February 24, 2017
+due_reading_patterns: Uploaded Saturday, November 4, 2017
 
-#link_reading_critique: https://canvas.uw.edu/courses/987987/assignments/3016470
-#date_reading_critique: Friday, October 16, 2015
+#link_reading_patterns_file_design_of_sites: https://canvas.uw.edu/files/40656356/download?download_frd=1
+
+####################
+# Reading 5
+####################
+date_reading_research: Uploaded Saturday, December 2, 2017
 
 #link_reading_research_writeup: https://canvas.uw.edu/courses/987987/assignments/3046595
 #link_reading_research_paper: https://canvas.uw.edu/courses/987987/assignments/3046597
-#date_reading_research: Friday, December 4, 2015
-
-#link_reading_empathy: https://canvas.uw.edu/courses/1138137/files?preview=41599091
-#due_reading_empathy: Uploaded Thursday, April 13, 2017 (before section on Friday, April 14, 2017)
-#link_reading_empathy_file_empathy: https://canvas.uw.edu/files/41599091/download?download_frd=1
-#link_reading_empathy_file_ideo_method_cards: https://canvas.uw.edu/files/40115291/download?download_frd=1
-#link_reading_empathy_file_universal_methods: https://canvas.uw.edu/files/39906877/download?download_frd=1
-
-#link_reading_storyboarding: https://canvas.uw.edu/courses/1138137/assignments/3728281
-#link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
-#link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/42159475/download?download_frd=1
-#link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/42159629/download?download_frd=1
-#link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/42159647/download?download_frd=1
-#link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/42159644/download?download_frd=1
-#link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/42159638/download?download_frd=1
-#due_reading_storyboarding: Uploaded Tuesday, May 2, 2017
-
-#link_reading_paper_prototyping: https://canvas.uw.edu/courses/1138137/assignments/3735329
-#link_reading_usability_testing_file: https://canvas.uw.edu/files/41702842/download?download_frd=1
-#link_reading_paper_prototyping_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1
-#link_reading_paper_prototyping_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1
-#link_reading_paper_prototyping_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1
-#link_reading_paper_prototyping_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1
-#due_reading_paper_prototyping: Uploaded Friday, May 12, 2017
 
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 # Overview
 
@@ -198,8 +193,6 @@ Submit via Canvas here:
 
 {% if page.link_reading_storyboarding != nil %}<{{ page.link_reading_storyboarding }}>{% else %}`Link to be added`{% endif %}
 
-{% comment %}
-
 <a name="paperprototyping"></a>
 
 ### Reading 3: Paper Prototyping and Usability Testing
@@ -230,7 +223,7 @@ Convey a specific idea that indicates you did the reading and thought about how 
 
 This reading thus serves to get you thinking about these methods in the context of your project.
 What actual techniques your team applies will depend on your larger decisions as a team. 
-This reading is not intended to require that you actually apply the ideas you individually develop here.
+This reading is not intended to require that your team later apply the ideas you individually develop here.
 
 No more than one page of text in PDF format.
 
@@ -250,10 +243,10 @@ Check out these design patterns:
 
 Consider how one of these patterns, or a pattern you find elsewhere, may be relevant in your project design.
 
-- Briefly, what pattern did you identify as relevant (e.g., by name and ID from Design of Sites, by URL).
+- Briefly, what pattern did you identify as relevant (e.g., by name and ID from Design of Sites, by URL to another pattern).
 - Describe why this pattern is relevant in your design.
-- Describe how you might modify your design or your design process based on insights on perspective surfaced by the pattern.
-  (e.g., describes changes in text, before / after images).
+- Describe how you might incorporate the pattern in your design or adjust your design process based on perspective surfaced by the pattern.
+  (e.g., describes changes with text describing what you might change, or consider providing before / after images).
 
 If you wish, you can do this assignment in __pairs__ from your project team.
 If you do, include both names in your document.
@@ -267,36 +260,6 @@ Submit via Canvas here:
 
 {% if page.link_reading_patterns != nil %}<{{ page.link_reading_patterns }}>{% else %}`Link to be added`{% endif %}
 
-{% comment %}
-<a name="critique"></a>
-
-### Reading 2: Critique and Teamwork
-
-Read:
-
-- [Cheng (2013). How to Survive a Critique: A Guide to Giving and Receiving Feedback](http://www.aiga.org/how-to-survive-a-critique/)
-- [Katzenbach and Smith (1993). The Discipline of Teams.]({{site.baseurl}}/readings/DisciplineOfTeams-KatzenbachSmith.htm)
-- [Pausch. Tips for Working Successfully in a Group.]({{site.baseurl}}/readings/WorkingInGroups-Pausch.html)
-
-Due: Uploaded the night before section
-{% if page.date_reading_critique != nil %}{{ page.date_reading_critique }}{% else %}`Date to be added`{% endif %}.
-
-After reading, please think back to your previous experiences working in groups, particularly an experience that could have been improved.
-
-- Briefly describe the project and the group (e.g., two sentences).
-- What went poorly in this group (e.g., two sentences)?
-- From concepts discussed in these readings, what could have been done differently to improve the group experience (e.g., up to two paragraphs)?
-
-These readings thus reflection on receiving feedback, prior group experiences, and how to maximize your success in this course.
-
-No more than one page of text in PDF format.
-
-Submit via Canvas here:
-
-{% if page.link_reading_critique != nil %}<{{ page.link_reading_critique }}>{% else %}`Link to be added`{% endif %}
-{% endcomment %}
-
-{% comment %}
 <a name="research"></a>
 
 ### Reading 5: Research Paper
@@ -304,36 +267,40 @@ Submit via Canvas here:
 Due: Uploaded the night before section
 {% if page.date_reading_research != nil %}{{ page.date_reading_research }}{% else %}`Date to be added`{% endif %}.
 
-Researchers and designers often re-invent.
-Instead it is valuable to take advantage of what is already known.
+Researchers and designers often re-invent, leading to the popular saying that
+"A year in the field can save you an hour in the library".
+It is valuable to take advantage of what is already known.
 To do this, you need to find and understand prior results.
+
 Find and read a research paper related to your project.
 The paper does not necessarily have to describe an app or device.
-For example, the research paper may describing the results of surveys or interviews on how people currently track something related to your project.
+For example, the research paper may describe results of surveys or interviews on how people currently track something related to your project.
 
-We have discussed a number of research papers in this class from HCI-related conferences such as:
+We have discussed a number of research papers in this class from leading HCI-related conferences such as:
 
-- [CHI](http://chi2015.acm.org/)
-- [UIST](http://www.acm.org/uist/uist2014/)
-- [UbiComp](http://ubicomp.org/ubicomp2014/)
+- [CHI](https://chi2017.acm.org/)
+- [CSCW](https://cscw.acm.org/2017/)
+- [UIST](https://uist.acm.org/uist2017/)
+- [UbiComp](http://ubicomp.org/ubicomp2017/)
 
-But you might find a research paper in another related field, such as psychology or medicine. Some conferences at the intersection of technology and health include:
+You might find a relevant research paper in another related field, such as psychology or medicine. Some conferences at the intersection of technology and health include:
 
 - [AMIA](https://www.amia.org/)
 - [PervasiveHealth](http://pervasivehealth.org/)
 
 Many papers are available via the [ACM Digital Library](http://dl.acm.org/) or on author websites.
 
-The search tool for the ACM Digital Library is pretty terrible, so a better choice is typically [Google Scholar](http://scholar.google.com/).
+Unfortunately, search functionality within the ACM Digital Library is generally poor. A better choice is typically [Google Scholar](http://scholar.google.com/).
 
 These resources are easiest to access while on the UW network, but you can also access them off campus using the [UW Libraries proxy](http://www.lib.washington.edu/help/connect.html).
 
 - In one paragraph, summarize the findings of the research paper.
   - What were the main points of this paper?
-  - Given the paper, do you believe those main points?
-- In one paragraph, describe how the paper applies to your project.
-  - After reading this paper, is there anything you wish you had done differently in your design?
-  - Do you think you've designed something that's improved upon what this paper discusses?
+  - Given the content of the paper, critique those main points. Do you believe them? What are their limitations?
+- In one paragraph, describe how the paper might apply to your project.
+  - After reading this paper, is there anything you might wish you had done differently?
+  - Is there some insight from this paper that you can apply in your design?
+  - Do you think you have designed something that improves upon a design this paper discusses?
 
 If you wish, you can do this assignment in __pairs__ from your project team. If you do so, please both submit and include both of your names in the submission.
 
@@ -348,129 +315,8 @@ Also submit a PDF of the research paper you read.
 Submit via Canvas here:
 
 {% if page.link_reading_research_paper != nil %}<{{ page.link_reading_research_paper }}>{% else %}`Link to be added`{% endif %}
-{% endcomment %}
-
-# Assigned Readings (Individual assignments)
-
-<a name="contextual_inquiry"></a>
-
-### Reading 1: Empathy on the Edge
-
-Due:
-{% if page.due_reading_empathy != nil %}{{ page.due_reading_empathy }}{% else %}`Date to be added`{% endif %}.
-
-Read:
-
-- [Empathy on the Edge]({{ page.link_reading_empathy_file_empathy }})
-
-After reading, consider how you might apply this approach to your proposed project.
-
-Submit a one page text reflecting on how you will establish empathy for the particular population that you chose to design for with two questions:
-
-(1) What would be the ideal way of learning about the particular population that you chose to design for?
-
-(2) What is a feasible way of learning about the particular population that you chose to design for?
-
-No more than one page of text in PDF format.
-
-Submit via Canvas here:
-
-{% if page.link_reading_empathy != nil %}<{{ page.link_reading_empathy }}>{% else %}`Link to be added`{% endif %}
-
-
-<a name="storyboarding"></a>
-
-### Reading 2: Storyboarding and Video Prototyping
-
-Due: {% if page.due_reading_storyboarding != nil %}{{ page.due_reading_storyboarding }}{% else %}`Date to be added`{% endif %}.
-
-Read these storyboarding resources:
-
-  - [Colville-Hyde (2016). UX Comics: Visually Communicating User Experiences.]({{ page.link_reading_storyboarding_file_ux_comics}} )
-  - [Excerpts from Greenberg et al. (2012). Sketching User Experiences: The Workbook]( {{ page.link_reading_storyboarding_file_sketching_excerpts }} )
-
-Specifically, that is these videos:
-
-  - [Mackay Stop Motion](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Mackay-StopAction.mp4)
-  - [Mackay Stop Motion Result](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Mackay-StopActionResult.mp4)
-  - [Document Interaction on Microsoft Surface](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Surface-Document-Interaction.mp4)
-  - [Context Lens on Microsoft Surface](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Surface-Context-Lens.mp4)
-  - [Don't Forget 1](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Don't-Forget-1.mp4)
-  - [Don't Forget 2](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Don't-Forget-2.mp4)
-  - [Don't Forget 3](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Don't-Forget-3.mp4)
-  - [Buddy Map Backcountry](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Buddy-Map-Backcountry.mp4)
-  - [Consumester](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Consumester.mp4)
-  - [Pickup](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Pickup.mp4)
-  - [Graffiti Karma](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Graffiti.mp4)
-  - [ParkSmart](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Parksmart.mp4)
-  - [Plantr](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Plantr.mp4)
-  
-Optionally, check out these additional storyboarding resources:
-  - [Greenberg et al. (2012). Sketching User Experiences: The Workbook.]({{ page.link_reading_storyboarding_file_sketching }})
-  - [Truong, Hayes, and Abowd. (2006). Storyboarding: An Empirical Determination of Best Practices and Effective Guidelines.]({{ page.link_reading_storyboarding_file_empirical }})
-  - [Quesenbery and Brooks. (2010). Storytelling for User Experience.]({{ page.link_reading_storyboarding_file_storytelling }})
-  - [McCloud (1993). Understanding Comics.]({{ page.link_reading_storyboarding_file_understanding_comics }})
-
-Optionally, check out these high-production "vision of the future" video prototypes:
-
-  - [Starfire](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Vision-Sun-Starfire.mp4)
-  - [Knowledge Navigator](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Vision-Apple-Knowledge-Navigator.mp4)
-  - [A Day Made of Glass](http://courses.cs.washington.edu/courses/cse440/videos/videoprototyping/Vision-Corning-A-Day-Made-Of-Glass.mp4)
-
-The Starfire video prototype is notable for including a 'bug',
-where the system behaves in a manner counter to the person's wishes,
-but consistent with how we might expect such technology to work.
-For fun, see if you can spot this 'bug' in the video.
-
-After viewing and considering these examples, think about what approaches were more or less effective.
-
-- In one paragraph, describe a technique you saw in these examples that was highly effective 
-  (i.e., in either storyboarding or video prototyping, in the readings or the videos),
-  which you might therefore want to apply in your storyboarding or video prototyping.
-  Be specific, such that it is clear you considered the examples.
-  Discuss why it was effective.  
-- In one paragraph, describe a technique you saw that was ineffective
-  (i.e., in either storyboarding or video prototyping, in the readings or the videos),
-  which you might therefore want to be mindful of in your storyboarding or video prototyping.
-  Be specific, such that it is clear you considered the examples.
-  Discuss why it was ineffective.
-
-These examples thus support your reflection on how to effectively convey a design.
-Techniques in these and other examples will also directly apply as you prepare your storyboards and video prototypes.
-
-No more than one page of text in PDF format.
-
-Submit via Canvas here:
-
-{% if page.link_reading_storyboarding != nil %}<{{ page.link_reading_storyboarding }}>{% else %}`Link to be added`{% endif %}
 
 
 
-<a name="paperprototyping"></a>
 
-### Reading 3: Usability Testing
 
-Due: {% if page.due_reading_paper_prototyping != nil %}{{ page.due_reading_paper_prototyping }}{% else %}`Date to be added`{% endif %}.
-
-Read:
-
-- [Usability Testing - Research Methods in Human-Computer Interaction]({{ page.link_reading_usability_testing_file }})
-
-Then write one paragraph answering the following two questions: 
-
-- What are the different kinds of usability tests and what advantages do they each offer?
-- In what stages of the project can these tests be performed?
-
-Write another paragraph that answers this third question: 
-
-- Applying what you’ve learned from the reading to your group project, how would you select quantitative measurements for your usability tests? What are the key metrics for your project? Justify your choices. 
-
-Note that even though we ask you to think about your group project, this is an individual assignment. 
-
-No more than one page of text in PDF format.
-
-Submit via Canvas here:
-
-{% if page.link_reading_paper_prototyping != nil %}<{{ page.link_reading_paper_prototyping }}>{% else %}`Link to be added`{% endif %}
-
-{% endcomment %}
