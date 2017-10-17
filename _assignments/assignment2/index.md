@@ -19,7 +19,6 @@ link_project_2e: https://canvas.uw.edu/courses/1173784/assignments/3925217
 
 due_project_2f: Uploaded Monday, October 23, 2017 (before class on Tuesday, October 24, 2017)
 # link_project_2f: https://canvas.uw.edu/courses/1098203/assignments/3577761
-# #link_project_2f_critique: https://canvas.uw.edu/courses/987987/assignments/3029342
 
 due_project_2g: Uploaded Thursday, October 26, 2017 (before section on Friday, October 27, 2017)
 # link_project_2g: https://canvas.uw.edu/courses/1098203/assignments/3577769
@@ -420,11 +419,9 @@ This milestone will be graded on a scale of __6 points__:
 
 ## 2e: Task Review
 
-<div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed. All content remains subject to change.
-</div>
-
 Due: {{ page.due_project_2e }}
+
+The goal of this milestone is to develop a set of tasks that you will explore in a set of potential designs.
 
 Building on what you learned in your design research, design six tasks that you believe are integral to your overall design goal:
 
@@ -434,7 +431,7 @@ Building on what you learned in your design research, design six tasks that you 
  - Your six tasks should span a wide range of functionality and difficulty, from easy to hard tasks.
 
 Each task should be described in text. Tasks say what is accomplished, leaving open how to accomplish it.
-So be sure that your task conveys a problem and what is accomplished, rather than a step-by-step walkthrough of scenario with a particular design.
+Be sure that your task conveys a problem and what is accomplished, rather than a step-by-step walkthrough of scenario with a particular design.
 
 ### Samples from Prior Offerings
 
@@ -469,11 +466,9 @@ This milestone will be graded on a scale of __6 points__:
 
 ## 2f: Design Check-In ("3x4")
 
-<div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed. All content remains subject to change.
-</div>
-
 Due: {{ page.due_project_2f }}
+
+The goal of this milestone is to develop distinct design ideas that address your tasks.
 
 You have identified and described six important tasks for your design problem. 
 You will now brainstorm and sketch three very different initial designs for your interface:
@@ -526,11 +521,9 @@ This milestone will be graded on a scale of __6 points__:
 
 ## 2g: Design Review ("1x2")
 
-<div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed. All content remains subject to change.
-</div>
-
 Due: {{ page.due_project_2g }}
+
+The goal of this milestone is to choose a design idea to pursue in the remainder of this course.
 
 From your design sketches, select one design that you will refine in the remainder of this course. 
 Then select two tasks that will be the focus of your design refinement. 
@@ -591,11 +584,9 @@ This milestone will be graded on a scale of __6 points__:
 
 ## 2h: Final Report
 
-<div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed. All content remains subject to change.
-</div>
-
 Due: {{ page.due_project_2h }}
+
+The goal of this milestone is to communicate the design research that motivates your design.
 
 Prepare a report documenting your process of getting the right design.
 Your report should follow the outline below, and will be graded using the guidelines that follow.
@@ -712,10 +703,6 @@ This report will be graded on a scale of __25 points__:
 <a name="presentation"></a>
 
 ## Presentation
-
-<div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed. All content remains subject to change.
-</div>
 
 Due: {{ page.due_project_2i }}
 
