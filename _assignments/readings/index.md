@@ -5,18 +5,21 @@ title: "Readings"
 # Reading 1
 link_reading_design_research: https://canvas.uw.edu/courses/1173784/assignments/3911723
 due_reading_design_research: Uploaded Thursday, October 5, 2017 (before section on Friday, October 6, 2017)
+
 link_reading_design_research_file_contextual_inquiry: https://canvas.uw.edu/files/44052665/download?download_frd=1
 link_reading_design_research_file_ideo_method_cards: https://canvas.uw.edu/files/44052662/download?download_frd=1
 link_reading_design_research_file_universal_methods: https://canvas.uw.edu/files/44052664/download?download_frd=1
 
+# Reading 2
 #link_reading_storyboarding: https://canvas.uw.edu/courses/1098203/assignments/3584938
-#link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
-#link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/40119295/download?download_frd=1
-#link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/40119348/download?download_frd=1
-#link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/40115442/download?download_frd=1
-#link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/40161132/download?download_frd=1
-#link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/40057647/download?download_frd=1
-#due_reading_storyboarding: Uploaded Friday, January 27, 2017
+due_reading_storyboarding: Uploaded Saturday, October 21, 2017
+
+link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
+link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/44348280/download?download_frd=1
+link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/44348289/download?download_frd=1
+link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/44348282/download?download_frd=1
+link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/44348283/download?download_frd=1
+link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/44348284/download?download_frd=1
 
 #link_reading_paper_prototyping: https://canvas.uw.edu/courses/1098203/assignments/3595630
 #link_reading_paper_prototyping_file_tiny_fingers: https://canvas.uw.edu/files/40281117/download?download_frd=1
@@ -124,8 +127,6 @@ Submit via Canvas here:
 
 {% if page.link_reading_design_research != nil %}<{{ page.link_reading_design_research }}>{% else %}`Link to be added`{% endif %}
 
-{% comment %}
-
 <a name="storyboarding"></a>
 
 ### Reading 2: Storyboarding and Video Prototyping
@@ -177,12 +178,12 @@ For fun, see if you can spot this 'bug' in the video.
 
 After viewing and considering these examples, think about what approaches were more or less effective.
 
-- In one paragraph, describe a technique you saw in these examples that was highly effective 
+- In one paragraph, describe a technique you saw in these examples that you found highly effective 
   (i.e., in either storyboarding or video prototyping, in the readings or the videos),
   which you might therefore want to apply in your storyboarding or video prototyping.
   Be specific, such that it is clear you considered the examples.
   Discuss why it was effective.  
-- In one paragraph, describe a technique you saw that was ineffective
+- In one paragraph, describe a technique you saw that you found ineffective
   (i.e., in either storyboarding or video prototyping, in the readings or the videos),
   which you might therefore want to be mindful of in your storyboarding or video prototyping.
   Be specific, such that it is clear you considered the examples.
@@ -196,6 +197,8 @@ No more than one page of text in PDF format.
 Submit via Canvas here:
 
 {% if page.link_reading_storyboarding != nil %}<{{ page.link_reading_storyboarding }}>{% else %}`Link to be added`{% endif %}
+
+{% comment %}
 
 <a name="paperprototyping"></a>
 
