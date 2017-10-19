@@ -18,16 +18,16 @@ due_project_2e: Uploaded Thursday, October 19, 2017 (before class on Friday, Oct
 link_project_2e: https://canvas.uw.edu/courses/1173784/assignments/3925217
 
 due_project_2f: Uploaded Monday, October 23, 2017 (before class on Tuesday, October 24, 2017)
-# link_project_2f: https://canvas.uw.edu/courses/1098203/assignments/3577761
+link_project_2f: https://canvas.uw.edu/courses/1173784/assignments/3928244
 
 due_project_2g: Uploaded Thursday, October 26, 2017 (before section on Friday, October 27, 2017)
-# link_project_2g: https://canvas.uw.edu/courses/1098203/assignments/3577769
+link_project_2g: https://canvas.uw.edu/courses/1173784/assignments/3928291
 
 due_project_2h: Uploaded Monday, October 30, 2017 (before class on Tuesday, October 31, 2017)
-# link_project_2h: https://canvas.uw.edu/courses/1098203/assignments/3577781
+link_project_2h: https://canvas.uw.edu/courses/1173784/assignments/3928295
 
 due_project_2i: Uploaded Wednesday, November 1, 2017 (before class on Thursday, November 2, 2017 and section on Friday November 3, 2017)
-# link_project_2i: https://canvas.uw.edu/courses/1098203/assignments/3577784
+link_project_2i: https://canvas.uw.edu/courses/1173784/assignments/3928299
 
 ---
 
