@@ -89,7 +89,7 @@ lectures:
     panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b744838-59fc-44d0-aeab-31d89ba3a3a8"
   - date: "2017-10-19"
     name: "Storyboarding,<br>Video Prototyping"
-#    slides: "slides/lecture/l07-storyboarding.pdf"
+    slides: "slides/lecture/l07-storyboarding.pdf"
     # notes: "Required for Project 2g"
   - date: "2017-10-26"
     name: "Paper Prototyping,<br>Testing,<br>Tasks in Testing"
