@@ -16,7 +16,7 @@ link_reading_design_research_file_universal_methods: https://canvas.uw.edu/files
 ####################
 # Reading 2
 ####################
-#link_reading_storyboarding: https://canvas.uw.edu/courses/1098203/assignments/3584938
+link_reading_storyboarding: https://canvas.uw.edu/courses/1173784/assignments/3928187
 due_reading_storyboarding: Uploaded Saturday, October 21, 2017
 
 link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
@@ -30,7 +30,7 @@ link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/file
 ####################
 # Reading 3
 ####################
-#link_reading_paper_prototyping: https://canvas.uw.edu/courses/1098203/assignments/3595630
+link_reading_paper_prototyping: https://canvas.uw.edu/courses/1173784/assignments/3928204
 due_reading_paper_prototyping: Uploaded Saturday, October 28, 2017
 
 link_reading_paper_prototyping_file_tiny_fingers: https://canvas.uw.edu/files/44349666/download?download_frd=1
