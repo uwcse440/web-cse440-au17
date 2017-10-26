@@ -31,7 +31,7 @@ link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/file
 # Reading 3
 ####################
 link_reading_paper_prototyping: https://canvas.uw.edu/courses/1173784/assignments/3928204
-due_reading_paper_prototyping: Uploaded Saturday, October 28, 2017
+due_reading_paper_prototyping: Uploaded Saturday, November 4, 2017
 
 link_reading_paper_prototyping_file_tiny_fingers: https://canvas.uw.edu/files/44349666/download?download_frd=1
 link_reading_paper_prototyping_file_snyder_chapter4: https://canvas.uw.edu/files/44349663/download?download_frd=1
@@ -44,7 +44,7 @@ link_reading_paper_prototyping_file_snyder: https://canvas.uw.edu/files/44349669
 # Reading 4
 ####################
 #link_reading_patterns: https://canvas.uw.edu/courses/1098203/assignments/3608154
-due_reading_patterns: Uploaded Saturday, November 4, 2017
+due_reading_patterns: Uploaded Saturday, November 11, 2017
 
 #link_reading_patterns_file_design_of_sites: https://canvas.uw.edu/files/40656356/download?download_frd=1
 
