@@ -43,7 +43,7 @@ link_reading_paper_prototyping_file_snyder: https://canvas.uw.edu/files/44349669
 ####################
 # Reading 4
 ####################
-#link_reading_patterns: https://canvas.uw.edu/courses/1098203/assignments/3608154
+link_reading_patterns: https://canvas.uw.edu/courses/1173784/assignments/3939006
 due_reading_patterns: Uploaded Saturday, November 11, 2017
 
 link_reading_patterns_file_design_of_sites: https://canvas.uw.edu/files/44674307/download?download_frd=1
@@ -53,8 +53,8 @@ link_reading_patterns_file_design_of_sites: https://canvas.uw.edu/files/44674307
 ####################
 date_reading_research: Uploaded Saturday, December 2, 2017
 
-#link_reading_research_writeup: https://canvas.uw.edu/courses/987987/assignments/3046595
-#link_reading_research_paper: https://canvas.uw.edu/courses/987987/assignments/3046597
+link_reading_research_writeup: https://canvas.uw.edu/courses/1173784/assignments/3939031
+link_reading_research_paper: https://canvas.uw.edu/courses/1173784/assignments/3939051
 
 ---
 
