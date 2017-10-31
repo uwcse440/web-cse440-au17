@@ -29,6 +29,8 @@ link_project_2h: https://canvas.uw.edu/courses/1173784/assignments/3928295
 due_project_2i: Uploaded Wednesday, November 1, 2017 (before class on Thursday, November 2, 2017 and section on Friday November 3, 2017)
 link_project_2i: https://canvas.uw.edu/courses/1173784/assignments/3928299
 
+due_project_2j: Submitted Saturday, November 4, 2017
+
 ---
 
 {% comment %}
@@ -55,9 +57,9 @@ This assignment is worth __21%__ of your overall course grade:
   - __1%__ for [Assignment 2f: Design Check-In ("3x4")](#design_checkin)
   - __1%__ for [Assignment 2g: Design Review ("1x2")](#design_review)
 
-The content of the associated presentation is worth __5%__ of your overall course grade.
+The content of [Assignment 2i: Presentation](#presentation) is worth __5%__ of your overall course grade.
 
-Your delivery of the associated presentation is worth __2%__ of your overall course grade.
+Your delivery of a presentation this quarter is worth __2%__ of your overall course grade.
 
 # Milestones
 
@@ -95,9 +97,13 @@ This is a group assignment, consisting of nine milestones.
 
   Due: {{ page.due_project_2h }}
 
-* [Presentation](#presentation)
+* [Assignment 2i: Presentation](#presentation)
 
   Due: {{ page.due_project_2i }}
+
+* [Assignment 2j: Team Peer Feedback](#team_peer_feedback)
+
+  Due: {{ page.due_project_2j }}
 
 # Project Description
 
@@ -601,7 +607,7 @@ include how you have addressed and incorporated that feedback to improve relativ
 
    A short, creative, and marketable title capturing the key idea.
 
-2. __Each Team Member’s Name and Role(s)__
+2. __Each Team Member’s Name, and optionally Role(s)__
 
 3. __Problem and Solution Overview__: (1 paragraph)
 
@@ -690,7 +696,7 @@ It is important to protect participant anonymity, even in the case that reportin
 This report will be graded on a scale of __25 points__:
 
 1.  __Title__: (1 point) 
-2.  __Team Member Names and Roles__: (1 point)  
+2.  __Team Member Names, and Optionally Roles__: (1 point)  
 3.  __Problem and Solution Overview__: (2 points) 
 4.  __Design Research Goals, Stakeholders, and Participants__: (2 points)
 5.  __Design Research Results and Themes__: (3 points)
@@ -702,7 +708,7 @@ This report will be graded on a scale of __25 points__:
 
 <a name="presentation"></a>
 
-## Presentation
+## 2i: Presentation
 
 Due: {{ page.due_project_2i }}
 
@@ -715,7 +721,7 @@ A suggested organization of this presentation is:
 
 1. __Title__: 
  
-   A short, creative, and marketable title capturing the key idea. Include team member names and roles.
+   A short, creative, and marketable title capturing the key idea. Include team member names, and optionally include roles.
  
 2. __Overall Problem__:  
 
@@ -781,7 +787,7 @@ It is important to protect participant anonymity, even in the case that reportin
 
 The course staff will have a feedback form they keep during your presentation:
 
-[2h-presentation-instructor-form.pdf]({{ site.baseurl }}/assignments/assignment2/2h-presentation-instructor-form.pdf)
+[2i-presentation-instructor-form.pdf]({{ site.baseurl }}/assignments/assignment2/2i-presentation-instructor-form.pdf)
 
 ### Grading
 
@@ -807,3 +813,11 @@ The delivery of this presentation will be graded on a scale of __4 points__:
 - Presenter projects their voice well and is audible throughout the room.
 - Presenter feels casual and engaged with the content, not just reading it.
 - Presentation covered the required scope within the allowed time period.
+
+<a name="team_peer_feedback"></a>
+
+## 2j: Team Peer Feedback
+
+Due: {{ page.due_project_2j }}
+
+Submit peer feedback using the form distributed to the class by email.
