@@ -397,9 +397,9 @@ officehours:
   - date: "2017-11-22"
     name: "Kailey Office Hour"
     location: officehourskailey
-  - date: "2017-11-29"
+  - date: "2017-11-27"
     name: "Kailey Office Hour"
-    location: officehourskailey
+    location: officehoursnigini007
   - date: "2017-12-06"
     name: "Kailey Office Hour"
     location: officehourskailey
@@ -425,9 +425,9 @@ officehours:
   - date: "2017-11-20"
     name: "Nigini Office Hour"
     location: officehoursnigini
-  - date: "2017-11-27"
+  - date: "2017-11-29"
     name: "Nigini Office Hour"
-    location: officehoursnigini007
+    location: officehourskailey
   - date: "2017-12-04"
     name: "Nigini Office Hour"
     location: officehoursnigini
