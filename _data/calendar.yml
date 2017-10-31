@@ -24,6 +24,12 @@ locations:
     - time: "1:30 - 2:20"
       location: "MGH 058"
 
+  sections_afternoononly:
+    - time: "12:30 - 1:20"
+      location: "MGH 058"
+    - time: "1:30 - 2:20"
+      location: "MGH 058"
+
   postersession:
     - time: "11:00 - 12:20"
       location: "CSE Atrium"
@@ -43,16 +49,6 @@ locations:
   officehoursnigini007:
     - time: "3:30 - 4:30"
       location: "CSE 007"
-
-#  officehourseunice:
-#    - time: "1:45 - 2:45"
-#      location: "CSE 021"
-
-#  sections_afternoononly:
-#    - time: "12:30 - 1:20"
-#      location: "MGH 058"
-#    - time: "1:30 - 2:20"
-#      location: "MGH 058"
 
 #  examqa:
 #    - time: "1:30 - 2:30"
@@ -95,10 +91,11 @@ lectures:
   - date: "2017-10-26"
     name: "Presentations,<br>Paper Prototyping,<br>Testing"
     slides: "slides/lecture/l08-paperprototyping.pdf"
+    panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9d2db06b-a117-4d54-8817-bb1ddb79c116"
     # notes: "Required for Project 3a"
   - date: "2017-10-31"
     name: "Testing,<br>Patterns"
-#    slides: "slides/lecture/l14-testing-patterns.pdf"
+    slides: "slides/lecture/l09-testing-patterns.pdf"
   - date: "2017-11-07"
     location: "lecturesdenny"
     name: "Inspection"
@@ -271,7 +268,7 @@ majors:
     link: "assignments/assignment2/#presentation"
   - date: "2017-11-03"
     name: "Presentations"
-    location: "sections"
+    location: "sections_afternoononly"
     link: "assignments/assignment2/#presentation"
   - date: "2017-11-30"
     name: "Presentations"
