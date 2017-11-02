@@ -216,7 +216,7 @@ assignments:
     name: "3b - Heuristic Evaluation"
     duenote: "[due end of day]"
     link: "assignments/assignment3/#heuristic_evaluation"
-  - date: "2017-11-09"
+  - date: "2017-11-10"
     name: "3c - Usability Testing Check-In"
     duenote: "[due end of day]"
     link: "assignments/assignment3/#usability_testing_checkin"
@@ -264,6 +264,10 @@ assignments:
     name: "4e - Final Poster, Video, Website"
     duenote: "[due end of day]"
     link: "assignments/assignment4/#final_everything"
+  - date: "2017-12-12"
+    name: "4f - Team Peer Feedback"
+    duenote: "[due end of day]"
+    link: "assignments/assignment4/#team_peer_feedback"
 
 majors:
   - date: "2017-11-02"
