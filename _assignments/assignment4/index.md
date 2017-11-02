@@ -2,28 +2,32 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 4: Communicating Your Design"
 
-# due_project_4a: Uploaded Monday, March 6, 2017
+due_project_4a: Uploaded Monday, November 27, 2017
 # link_project_4a: https://canvas.uw.edu/courses/1098203/assignments/3615328
 
-# due_project_4b: Uploaded Monday, March 6, 2017 (before class on Tuesday, March 7, 2017)
+due_project_4b: Uploaded Monday, December 4, 2017 (before class on Tuesday, December 5, 2017)
 # link_project_4b: https://canvas.uw.edu/courses/1098203/assignments/3615334
 
-# due_project_4c: Uploaded Wednesday, March 8, 2017 (before class on Thursday, March 9, 2017)
+due_project_4c: Uploaded Wednesday, December 6, 2017 (before class on Thursday, December 7, 2017)
 # link_project_4c: https://canvas.uw.edu/courses/1098203/assignments/3615337
 
-# due_project_4d: Completed in section on Friday, March 10, 2017
+due_project_4d: Completed in section on Friday, December 8, 2017
 
-# due_project_4e: Uploaded Friday, March 10, 2017
+due_project_4e: Uploaded Monday, December 11, 2017
 # link_project_4e_poster: https://canvas.uw.edu/courses/1098203/assignments/3615345
 # link_project_4e_video: https://canvas.uw.edu/courses/1098203/assignments/3615348
 
-# due_project_4f: Attend 11:00 to 12:20, Monday, March 13, 2017
+due_project_4f: Submitted Monday December 12, 2017
+
+due_project_4g: Attend 11:00 to 12:20, Thursday, December 14, 2017
 
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 # Overview
 
@@ -69,9 +73,13 @@ This is a group assignment, consisting of six milestones.
 
   Due: {{ page.due_project_4e }} 
 
-* [Assignment 4f: Poster Session](#poster_session)
+* [Assignment 4f: Team Peer Feedback](#team_peer_feedback)
 
-  Due: {{ page.due_project_4f }}
+  Due: {{ page.due_project_4g }}
+
+* [Assignment 4g: Poster Session](#poster_session)
+
+  Due: {{ page.due_project_4g }}
 
 # Project Description
 
@@ -123,9 +131,11 @@ You will create a website, a video prototype, a poster, and a pitch to present y
 
 Due: {{ page.due_project_4a }}
 
+The goal of this milestone is to post an initial project website as part of the course website.
+
 We will use your websites to advertise the poster session.
-Although this is in an initial website on which you will get feedback and will be able to update,
-you should submit a complete and high-quality versions of your website.
+Although this is an initial website on which you will get feedback and will be able to update,
+you should submit a complete and high-quality version of your website appropriate for advertising the course projects.
 
 Your website will be served from a subdirectory of this course website.
 It is also link via a thumbnail from the projects page:
@@ -179,6 +189,8 @@ But later critique and refinement will help further improve it before the final 
 
 Due: {{ page.due_project_4b }}
 
+The goal of this milestone is to create a video that communicates your design to a broad audience.
+
 Submit your video prototype in a portable and playable format.
 It should be sufficiently high-resolution for projection, but sufficiently compressed that it can be played on a typical laptop. 
 Specifically, it should be playable on a Windows laptop and Mac OS laptop without special codecs installed (e.g., H.264 in an mp4 container). 
@@ -223,6 +235,8 @@ But later critique and refinement will help further improve it before the final 
 
 Due: {{ page.due_project_4c }}
 
+The goal of this milestone is to create a poster that communicates your design to a broad audience.
+
 Your poster should include:
 
 - Logo
@@ -243,7 +257,7 @@ You should heavily modify the template to be unique and represent your project.
 
 During the final poster session, your team will give a one minute pitch to a small group of judges. 
 
-Be prepared to give this pitch in class.
+Be prepared to give your pitch.
 Course staff and other students will give feedback so you can improve before the final poster session.
 
 ### Samples from Prior Offerings
@@ -267,7 +281,7 @@ Your poster may be in PPT, PPTX, or PDF format.
 We have a color plotter that can print posters this size. 
 Your source file is due as above, we will then coordinate with you for proofreading and printing.
 
-Be prepared to give your elevator pitch in class.
+Be prepared to give your pitch.
 
 ### Grading
 
@@ -284,7 +298,7 @@ Due: {{ page.due_project_4d }}
 
 This is a flexible critique day. 
 The purpose of this day is to help you refine whichever of your remaining deliverables you feel needs feedback. 
-Be prepared to present your video, website, and/or poster at the critique. 
+Be prepared to present your video, website, and/or poster. 
 This is the last opportunity for you to get in-class critical feedback, so use it wisely.
 
 ### Submission
@@ -357,15 +371,24 @@ Your final video, final website, and final poster will each be graded on a scale
 - __Presentation__: (5 points)
   - Looks professional and is something you would consider including in a design portfolio
 
+<a name="team_peer_feedback"></a>
+
+## 4f: Team Peer Feedback
+
+Due: {{ page.due_project_4f }}
+
+Submit peer feedback using the form distributed to the class by email.
+
 <a name="poster_session"></a>
 
-## 4f: Poster Session
+## 4g: Poster Session
 
-Attend {{ page.due_project_4f }}.
+Attend {{ page.due_project_4g }}.
 
 Come to the poster session to show off your work and engage with your classmates.
 Present your pitch to a team of judges.
 
-We will not be conducting any evaluation at the poster session itself. 
 Take the opportunity present your work, chat with judges,
 engage with other students, and reflect on a busy and productive quarter.
+
+We will not be conducting any evaluation at the poster session itself. 

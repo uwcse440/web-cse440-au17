@@ -2,33 +2,34 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 3: Getting the Design Right"
 
-# due_project_3a: Uploaded Monday, February 13, 2017 (before class on Tuesday, February 14, 2017)
+due_project_3a: Uploaded Monday, November 6, 2017 (before class on Tuesday, November 7, 2017)
 # link_project_3a: https://canvas.uw.edu/courses/1098203/assignments/3589476
 
-# due_project_3b: Uploaded Wednesday, February 15, 2017
+due_project_3b: Uploaded Wednesday, November 8, 2017
 # link_project_3b: https://canvas.uw.edu/courses/1098203/assignments/3589479
 
-# due_project_3c: Uploaded Thursday, February 16, 2017 (before section on Friday, February 17, 2017)
+due_project_3c: Uploaded Friday, November 10, 2017
 # link_project_3c: https://canvas.uw.edu/courses/1098203/assignments/3589483
 
-# due_project_3d: Uploaded Thursday, February 23, 2017 (before section on Friday, February 24, 2017)
+due_project_3d: Uploaded Monday, November 13, 2017 (before class on Tuesday, November 14, 2017)
 # link_project_3d: https://canvas.uw.edu/courses/1098203/assignments/3589486
-# #link_project_3d_critique: https://canvas.uw.edu/courses/987987/assignments/3046463
 
-# due_project_3e: Uploaded Monday, February 27, 2017
+due_project_3e: Uploaded Thursday, November 16, 2017 (before section on Friday, November 17, 2017)
 # link_project_3e: https://canvas.uw.edu/courses/1098203/assignments/3589489
 
-# due_project_3f: Uploaded Tuesday, February 28, 2017
+due_project_3f: Uploaded Monday, November 27, 2017
 # link_project_3f: https://canvas.uw.edu/courses/1098203/assignments/3589491
 
-# due_project_3g: Uploaded Wednesday, March 1, 2017 (before class on Thursday, March 2, 2017 and section on Friday March 3, 2017)
+due_project_3g: Uploaded Wednesday, November 29, 2017 (before class on Thursday, November 30, 2017 and section on Friday December 1, 2017)
 # link_project_3g: https://canvas.uw.edu/courses/1098203/assignments/3589492
 
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 # Overview
 
@@ -47,9 +48,9 @@ This assignment is worth __14%__ of your overall course grade:
   - __1%__ for [Assignment 3d: Usability Testing Review](#usability_testing) 
   - __1%__ for [Assignment 3e: Digital Mockup](#digital_mockup)
 	
-The content of the associated presentation is worth __5%__ of your overall course grade.
-	
-Your delivery of the associated presentation is worth __2%__ of your overall course grade.
+The content of [Assignment 3g: Presentation](#presentation) is worth __5%__ of your overall course grade.
+
+Your delivery of a presentation this quarter is worth __2%__ of your overall course grade.
 
 # Milestones
 
@@ -192,8 +193,9 @@ Finally, you will present your design process in a report and presentation.
 
 Due: {{ page.due_project_3a }}.
 
-Develop a paper prototype for your design. 
-It should convey all critical aspects of your design, including support for testing your two primary tasks.
+The goal of this milestone is to develop an initial paper prototype that will begin to allow testing of your design.
+
+Develop a paper prototype that conveys the critical aspects of your design, including support for testing your two primary tasks.
 
 ### Samples from Prior Offerings
 
@@ -238,14 +240,15 @@ This milestone will be graded on a scale of __9 points__:
 
 Due: {{ page.due_project_3b }}.
 
-Conduct a heuristic evaluation of your paper prototype.
-You will be delayed in completing this if you do not bring your prototype to class.
+The goal of this milestone is to obtain a heuristic evaluation of your paper prototype.
 
-Each team will split in half to conduct heuristic evaluations, pairing with another half-team from a different project.
-One half-team will conduct a heuristic evaluation of the other’s paper prototype.
-The two half-teams will then reverse roles.
-Each half-team will therefore conduct and receive one heuristic evaluation,
-and each team will therefore receive two evaluations of their prototype.
+This assignment will begin in class. You will be delayed in completing this if you do not bring your prototype to class.
+
+In class, pair with another team to conduct heuristic evaluations.
+One team will conduct a heuristic evaluation of the other’s paper prototype, the two teams will then reverse roles.
+Each team will therefore conduct and receive one heuristic evaluation.
+
+Outside of class, arrange to receive a second heuristic evaluation with another team.
 
 We will provide a worksheet with Nielsen's heuristics:
 
@@ -264,8 +267,7 @@ No more than one page of text in PDF format.
 Capture and submit detailed images of your heuristic evaluation work. Include:
 
 - Who conducted each evaluation
-  (i.e., which two team members facilitated the evaluation,
-  which two members of another team facilitated the evaluation).
+  (i.e., which members of your team facilitated the evaluation, which classmates conducted the evaluation).
 - An overview image of your paper prototype and notes.
 
 The evaluated project will keep the created index cards, so they can use them to improve their design.
@@ -287,6 +289,9 @@ This milestone will be graded on a scale of __6 points__:
 ## 3c: Usability Testing Check-In
 
 Due: {{ page.due_project_3c }}.
+
+The goal of this milestone is to document changes resulting from your inspection-based analyses
+and to begin usability testing of your revised prototype with participants.
 
 You received two heuristic evaluations of your paper prototype. 
 If desired, you may also conduct a heuristic evaluation or cognitive walkthrough for your own paper prototype.
@@ -340,8 +345,12 @@ Submit via Canvas here:
 
 {% if page.link_project_3c != nil %}<{{ page.link_project_3c }}>{% else %}`Link to be added`{% endif %}
 
-In section, be prepared to discuss your iterative revision of your paper prototype.
-Also bring your prototype to section. You will need it to demonstrate for critique.
+{% comment %}
+-- removed because no section due to Veteran's Day --
+
+Be prepared to discuss your iterative revision of your paper prototype.
+Also bring your prototype, and be prepared to demonstrate it for critique.
+{% endcomment %}
 
 ### Grading
 
@@ -357,6 +366,8 @@ This milestone will be graded on a scale of __12 points__:
 ## 3d: Usability Testing Review
 
 Due: {{ page.due_project_3d }}.
+
+The goal of this milestone is to complete usability testing of your prototype with participants.
 
 Complete your three usability tests and finalize your paper prototype according to what you learn.
 
@@ -403,20 +414,6 @@ Submit via Canvas here:
 
 {% if page.link_project_3d != nil %}<{{ page.link_project_3d }}>{% else %}`Link to be added`{% endif %}
 
-{% comment %}
-### In-Class Peer Critique
-
-In lecture, be prepared to discuss your usability testing with other teams and the course staff.
-
-Be sure to take notes during critique. We will provide a worksheet you can use:
-
-[3d-critique-worksheet-testingreview.pdf]({{ site.baseurl }}/assignments/assignment3/3d-critique-worksheet-testingreview.pdf)
-
-After class, submit images of your notes in PDF format. Submit via Canvas here:
-
-{% if page.link_project_3d_critique != nil %}<{{ page.link_project_3d_critique }}>{% else %}`Link to be added`{% endif %}
-{% endcomment %}
-
 ### Grading
 
 This milestone will be graded on a scale of __12 points__:
@@ -431,6 +428,8 @@ This milestone will be graded on a scale of __12 points__:
 ## 3e: Digital Mockup 
 
 Due: {{ page.due_project_3e }}.
+
+The goal of this milestone is to transition your prototype into a digital mockup of your design.
 
 Create your digital mockup based on your final paper prototype.
 The mockup should effectively communicate your design in a manner appropriate for your final report, website, and poster.
@@ -470,6 +469,9 @@ Submit via Canvas here:
 
 {% if page.link_project_3e != nil %}<{{ page.link_project_3e }}>{% else %}`Link to be added`{% endif %}
 
+Be prepared to discuss your iterative revision of your paper prototype in usability testing.
+Also be prepared to present and discuss your digital mockup, revisions the occurred in its creation.
+
 ### Grading
 
 This milestone will be graded on a scale of __12 points__:
@@ -483,6 +485,8 @@ This milestone will be graded on a scale of __12 points__:
 ## 3f: Final Report
 	
 Due: {{ page.due_project_3f }}.
+
+The goal of this milestone is to communicate your iterative design process and the resulting design.
 
 Prepare a report documenting your process of getting the design right. 
 Your report should follow the outline below, and will be graded using the guidelines that follow. 
@@ -590,7 +594,7 @@ This report will be graded on a scale of __25 points__:
 
 <a name="presentation"></a>
 
-## Presentation
+## 3g: Presentation
 
 Due: {{ page.due_project_3g }}.
 
