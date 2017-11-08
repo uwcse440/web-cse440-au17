@@ -101,6 +101,7 @@ lectures:
     location: "lecturesdenny"
     name: "Inspection"
     slides: "slides/lecture/l11-inspection.pdf"
+    panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a013100-67b2-46ce-9280-01063715084b"
     # notes: "Required for Project 3b"
   - date: "2017-11-09"
     name: "Human Performance"
