@@ -105,7 +105,7 @@ lectures:
     # notes: "Required for Project 3b"
   - date: "2017-11-09"
     name: "Human Performance"
-#    slides: "slides/lecture/l08-humanperformance.pdf"
+    slides: "slides/lecture/l12-humanperformance.pdf"
   - date: "2017-11-14"
     name: "Interface Implementation"
 #    slides: "slides/lecture/l10-interfaceimplementation.pdf"
