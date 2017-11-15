@@ -12,7 +12,7 @@ locations:
 
   exam:
     - time: "12:00 - 1:20"
-      location: "PAA A110"
+      location: "DEN 303"
 
   sections:
     - time: "9:30 - 10:20"
@@ -50,9 +50,9 @@ locations:
     - time: "3:30 - 4:30"
       location: "CSE 007"
 
-#  examqa:
-#    - time: "1:30 - 2:30"
-#      location: "CSE 403"
+  examqa:
+    - time: "3:00 - 4:00"
+      location: "CSE 403"
 
 lectures:
   - date: "2017-09-28"
@@ -110,6 +110,7 @@ lectures:
   - date: "2017-11-14"
     name: "Interface Implementation"
     slides: "slides/lecture/l13-interfaceimplementation.pdf"
+    panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dca0f4a0-2c45-4656-a7b3-fddae52979d6"
   - date: "2017-11-16"
     name: "History"
 #    slides: "slides/lecture/l04-history.pdf"
@@ -132,7 +133,12 @@ sections:
   - date: "2017-12-07"
     location: "lectures"
   - date: "2017-12-08"
-#    name: "Exam Q&A"
+
+  - date: "2017-11-20"
+    name: "Exam Q&A"
+    location: "examqa"
+    slides: "slides/lecture/cse440-consolidated-17au.pdf"
+
 #    slides: "slides/section/s01-brainstorm.pdf"
 #    slides: "slides/section/s02-ideation.pdf"
 #    slides: "slides/section/s03-ci.pdf"
@@ -343,9 +349,6 @@ officehours:
   - date: "2017-11-14"
     name: "James Office Hour"
     location: officehoursjames
-  - date: "2017-11-21"
-    name: "James Office Hour"
-    location: officehoursjames
   - date: "2017-11-28"
     name: "James Office Hour"
     location: officehoursjames
@@ -399,9 +402,6 @@ officehours:
   - date: "2017-11-15"
     name: "Kailey Office Hour"
     location: officehourskailey
-  - date: "2017-11-22"
-    name: "Kailey Office Hour"
-    location: officehourskailey
   - date: "2017-11-27"
     name: "Kailey Office Hour"
     location: officehoursnigini007
@@ -425,9 +425,6 @@ officehours:
     name: "Nigini Office Hour"
     location: officehoursnigini
   - date: "2017-11-13"
-    name: "Nigini Office Hour"
-    location: officehoursnigini
-  - date: "2017-11-20"
     name: "Nigini Office Hour"
     location: officehoursnigini
   - date: "2017-11-29"
