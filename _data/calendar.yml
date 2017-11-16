@@ -113,7 +113,7 @@ lectures:
     panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dca0f4a0-2c45-4656-a7b3-fddae52979d6"
   - date: "2017-11-16"
     name: "History"
-#    slides: "slides/lecture/l04-history.pdf"
+    slides: "slides/lecture/l14-history.pdf"
   - date: "2017-11-28"
     name: "Designing for Diverse Needs"
 #    slides: "slides/lecture/l15-designingfordiverseneeds.pdf"
