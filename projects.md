@@ -3,9 +3,11 @@ layout: base/bar/bar-sidebar-right
 title: Projects
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 <div class="sidebar_start"></div>
 
@@ -50,15 +52,11 @@ Self-tracking and personal informatics are closely related to the [Quantified Se
 >
 > [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
 
-<div class="alert alert-danger" markdown="1">
 As a focus for Autumn 2017, students were asked to explore __tracking beyond the self__.
-Instead of limiting self-tracking to a isolated self-analyst,
-we asked students to consider how people might interact around personal data in a variety of social contexts.
-Any problem where multiple people collect data, or where multiple people engage in gaining value from data,
-introduces additional opportunities and challenges in designing for effective interaction with personal data.
+Instead of limiting self-tracking to dashboards for an isolated self-analyst, 
+we asked students to consider the many different ways people might gather and interact around personal data.
 Students have examined the problems people encounter,
-then explored how new technology can go beyond the data fetish to help people in reaching their goals.
-</div>
+then explored how new technology design help people in using data to reach their goals.
 
 # Project Websites
 
@@ -84,10 +82,15 @@ Will be linked here as course projects are proposed and developed.
       <div class="thumbnailBox">
         {% if item_project.publishlink %}
         <a href="{{ site.baseurl }}/projects/{{ item_project.path }}/" target="_blank">
-          <img src="{{ site.baseurl }}/projects/{{ item_project.path }}/project_thumb.png" width="150" class="projectThumbnail" alt="{{ item_project.name }}"/>
+        {% endif %}
+          {% capture thumb_exists %}{% file_exists projects/{{ item_project.path }}/project_thumb.png %}{% endcapture %}
+          {% if thumb_exists == "true" %}
+            <img src="{{ site.baseurl }}/projects/{{ item_project.path }}/project_thumb.png" width="150" class="projectThumbnail" alt="{{ item_project.name }}"/>
+          {% else %}
+            <img src="{{ site.baseurl }}/projects/150x150.png" width="150" class="projectThumbnail" alt="{{ item_project.name }}"/>
+          {% endif %}
+        {% if item_project.publishlink %}
         </a>
-        {% else %}
-          <img src="{{ site.baseurl }}/projects/{{ item_project.path }}/project_thumb.png" width="150" class="projectThumbnail" alt="{{ item_project.name }}"/>
         {% endif %}
       </div>
       {% assign row_current = forloop.index | minus: 1 | divided_by: 4 | plus: 1 %}
