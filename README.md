@@ -58,3 +58,19 @@ Serve the site on port 4000, using the test configuration in `_config-test.yml`.
 
 `invoke serve_test` 
 
+
+# Configure and Run
+
+Install project dependencies:
+
+~~~
+npm install
+gem install bundler
+bundle install
+~~~
+
+Compile and run local copy:
+
+~~~
+bundle exec jekyll serve
+~~~
