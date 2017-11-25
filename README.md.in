@@ -1,3 +1,11 @@
-This is the beginning of a template for websites implemented using Jekyll.
+# web-jekyll-base
 
-{% include "base/readme/install_dependencies.md" %}
+{% if readme.travis_badge %}
+{{ readme.travis_badge }}
+{% endif %}
+
+The course website for CSE 440 in Autumn 2017.
+
+{% include "base/readme/install.md" %}
+
+{% include "base/readme/invoke.md" %}
