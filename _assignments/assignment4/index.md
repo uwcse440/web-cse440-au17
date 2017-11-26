@@ -3,19 +3,19 @@ layout: base/bar/bar-sidebar-none
 title: "Assignment 4: Communicating Your Design"
 
 due_project_4a: Uploaded Monday, November 27, 2017
-# link_project_4a: https://canvas.uw.edu/courses/1098203/assignments/3615328
+link_project_4a: https://canvas.uw.edu/courses/1173784/assignments/3960517
 
 due_project_4b: Uploaded Monday, December 4, 2017 (before class on Tuesday, December 5, 2017)
-# link_project_4b: https://canvas.uw.edu/courses/1098203/assignments/3615334
+link_project_4b: https://canvas.uw.edu/courses/1173784/assignments/3960518
 
 due_project_4c: Uploaded Wednesday, December 6, 2017 (before class on Thursday, December 7, 2017)
-# link_project_4c: https://canvas.uw.edu/courses/1098203/assignments/3615337
+link_project_4c: https://canvas.uw.edu/courses/1173784/assignments/3960519
 
 due_project_4d: Completed in section on Friday, December 8, 2017
 
 due_project_4e: Uploaded Monday, December 11, 2017
-# link_project_4e_poster: https://canvas.uw.edu/courses/1098203/assignments/3615345
-# link_project_4e_video: https://canvas.uw.edu/courses/1098203/assignments/3615348
+link_project_4e_poster: https://canvas.uw.edu/courses/1173784/assignments/3960521
+link_project_4e_video: https://canvas.uw.edu/courses/1173784/assignments/3960522
 
 due_project_4f: Submitted Monday December 12, 2017
 
