@@ -2478,6 +2478,7 @@
 
 			.feature .content h3 {
 				margin-bottom: 0.5em;
+				text-align: center;
 			}
 
 			.feature .content :last-child {
@@ -2775,6 +2776,7 @@
 
 			h3 {
 				font-size: 1.25em;
+				margin-bottom: 0
 			}
 
 		/* Section/Article */
@@ -2852,6 +2854,7 @@
 
 				.feature .content {
 					padding: 2.5em;
+					text-align: center;
 				}
 
 		/* Header */
@@ -3125,6 +3128,7 @@
 
 				.feature .content {
 					padding: 2em 1em !important;
+					text-align: center;
 				}
 
 		/* Main */
