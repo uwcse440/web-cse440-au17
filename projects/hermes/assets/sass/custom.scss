@@ -158,3 +158,54 @@ section {
 .bkgd {
 	background-color: $lightgrey;
 }
+
+.feature {
+	display: flex;
+}
+
+.feature-left > div {
+  /*padding: 20px 0 20px 80px; */
+  width: 40%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.feature-left > div > img{
+  margin-right: 40px;
+  width: 50%;
+}
+
+.feature-right > div {
+  /*padding: 20px 0px 20px 20px;*/
+  width: 40%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-left: 20%;
+}
+
+.feature-right > div > img{
+  width: 50%;
+  margin-right: 80px;
+}
+
+.feature > div > div {
+  vertical-align: middle;
+  text-align: left;
+  width: 37%;
+  right: 0;
+  font-size: 1.4em;
+  display: inline-block;
+  color: #615C60;
+}
+
+.feature > p {
+  font-size: 1.75em;
+  text-align: left;
+}
+
+.feature {
+	padding-top:5%;
+	padding-bottom: 5%;
+}
