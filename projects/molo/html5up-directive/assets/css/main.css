@@ -92,7 +92,7 @@
 		background-image: url("path/to/image");
 		background-position: center;
 		background-size: cover;
-		margin: 20%;
+		margin: auto;
 	}
 
 	@media screen and (max-width: 1680px) {
