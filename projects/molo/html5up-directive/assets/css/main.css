@@ -1906,7 +1906,7 @@
 			position: relative;
 			top: -1em;
 			color: #888888;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 			letter-spacing: 0.075em;
 		}
 
@@ -1949,8 +1949,8 @@
 				line-height: 1.75em;
 				border-top: solid 1px rgba(224, 224, 224, 0.75);
 				display: inline-block;
-				font-variant: small-caps;
-				font-size: 15px;
+				/*font-variant: small-caps;*/
+				font-size: 20px;
 			}
 
 			header.major.last {
@@ -2272,6 +2272,24 @@
 				padding: 0;
 			}
 
+	ul.team li a {
+		width: 150px;
+		height: 150px;
+	}
+
+	ul.team li span.name {
+		border: none;
+		text-align: center;
+		width: 100%;
+		font-size: 0.9em;
+		margin-top: 10px;
+		text-transform: uppercase;
+	}
+
+		ul.team li span.name:hover {
+			background: none;
+		}
+
 /* Table */
 
 	.table-wrapper {
@@ -2519,7 +2537,7 @@
 	}
 
 		#header:before, #header:after {
-			background: rgba(224, 224, 224, 0.75);
+			/*background: rgba(224, 224, 224, 0.75);*/
 			content: '';
 			left: 50%;
 			position: absolute;
@@ -2556,6 +2574,17 @@
 			color: #ffffff;
 		}
 
+		#header h2 {
+			font-weight: 200;
+			font-size: 1.3em;
+		}
+
+		/*#header h2 span {
+			font-size: 1.2em;
+			font-weight: bold;
+			font-color: white;
+		}*/
+
 		#header input[type="submit"],
 		#header input[type="reset"],
 		#header input[type="button"],
@@ -2576,6 +2605,8 @@
 			margin: 0 0 0.75em 0;
 			text-align: center;
 			width: 2.35em;
+			background: url("../../images/icon.png") no-repeat center center;
+			background-size: 100%;
 		}
 
 			#header .logo.fa-paper-plane-o:before {
@@ -2680,7 +2711,7 @@
 			color: rgba(255, 255, 255, 0.5);
 			font-size: 0.8em;
 			line-height: 1em;
-			margin: 3em 0 0 0;
+			margin: 5em 0 0 0;
 		}
 
 			#footer .copyright li {
@@ -2749,7 +2780,7 @@
 		/* Section/Article */
 
 			header.major p {
-				font-size: 15px;
+				font-size: 20px;
 				text-align: justify;
 			}
 
@@ -2798,7 +2829,7 @@
 				header.major p {
 					font-size: 15px;
 					font-size: 15px;
-					margin-top: 0px;	
+					margin-top: 0px;
 				}
 
 			footer.major {
