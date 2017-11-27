@@ -1950,6 +1950,7 @@
 				line-height: 1.75em;
 				border-top: solid 1px rgba(224, 224, 224, 0.75);
 				display: inline-block;
+				font-variant: small-caps;
 			}
 
 			header.major.last {
@@ -2749,6 +2750,7 @@
 
 			header.major p {
 				font-size: 1.25em;
+				text-align: justify;
 			}
 
 		/* Header */
@@ -2795,6 +2797,9 @@
 
 				header.major p {
 					font-size: 1.15em;
+					font-size: 15px;
+					margin-top: 0px;
+					
 				}
 
 			footer.major {
