@@ -4,16 +4,21 @@ body {
 #main {
   font-color: #95989A; }
 
-h2 {
+#main h2 {
+  color: #00838F;
   text-transform: uppercase; }
 
-p {
+#main p {
   max-width: 75%;
   margin-left: auto;
   margin-right: auto; }
 
 #main > .main:first-child {
   padding: 0; }
+
+#nav {
+  padding: 0em 3em;
+  transition: background-color 200ms linear; }
 
 #nav + #main {
   padding-top: 0; }
@@ -27,21 +32,36 @@ p {
   width: 100%;
   max-width: 100%;
   color: #F5F5F6;
-  padding: 0 1em;
-  background-color: #00838F; }
+  padding: 0 4em;
+  background-color: #005662; }
 
 #nav.alt ul li {
   height: 100%; }
 
+#nav ul li a:not(.active):hover {
+  border-bottom: thick solid #EC407A;
+  color: inherit;
+  background-color: inherit;
+  border-radius: 0px;
+  padding: 0px;
+  margin: 0 1.25em; }
+
 #nav ul li a.active {
   background-color: #F5F5F6;
-  color: #00838F;
+  color: #005662;
   border-radius: 0px;
   height: 100%;
   padding: 1em; }
 
+#nav ul li a.active:hover > span {
+  padding-bottom: 5px;
+  border-bottom: thick solid #EC407A; }
+
 #nav ul {
   float: right; }
+
+#nav.scroll {
+  background-color: rgba(0, 0, 0, 0); }
 
 #main_img {
   width: 100%; }
@@ -61,8 +81,44 @@ p {
   margin: .5em;
   padding: .75em; }
 
+#document_list li:hover {
+  background-color: #005662;
+  color: #F5F5F6; }
+
 #document_list li a {
   text-decoration: none;
   border: none; }
+
+#document_list li a:hover {
+  color: #F5F5F6; }
+
+.hidden {
+  opacity: 0; }
+
+#navlist {
+  float: right;
+  display: inline-block; }
+
+#logo {
+  font-family: "Josefin Sans", sans-serif;
+  float: left;
+  font-size: 1.5em;
+  padding-top: .5em;
+  padding-left: .5em; }
+
+.logo_link {
+  padding: 0em;
+  margin: 0em;
+  border: none; }
+
+#logo:hover {
+  color: #F5F5F6;
+  font-weight: bold; }
+
+section {
+  border: none; }
+
+.bkgd {
+  background-color: #F2F2F2; }
 
 /*# sourceMappingURL=custom.css.map */

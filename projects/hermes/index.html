@@ -30,13 +30,15 @@
 
 				<!-- Nav -->
 					<nav id="nav">
+						<a href="#top" class="logo_link"><div id="logo">HERMES</div></a>
 						<ul>
-							<li><a href="#intro">Overview</a></li>
-							<li><a href="#features">Features</a></li>
-							<li><a href="#interactive">Interactive Prototype</a></li>
-							<li><a href="#video">Video Prototype</a></li>
-							<li><a href="#documents">Documents</a></li>
-							<li><a href="#about">About Us</a></li>
+							<li><a href="#top" class="hidden">Top</a></li>
+							<li><a href="#intro"><span>Overview</span></a></li>
+							<li><a href="#features"><span>Features</span></a></li>
+							<li><a href="#interactive"><span>Interactive Prototype</span></a></li>
+							<li><a href="#video"><span>Video Prototype</span></a></li>
+							<li><a href="#documents"><span>Documents</span></a></li>
+							<li><a href="#about"><span>About Us</span></a></li>
 						</ul>
 					</nav>
 
@@ -44,12 +46,12 @@
 					<div id="main">
 
 						<!-- Introduction -->
-							<section id="intro" class="main">
+							<section id="top" class="main">
 								<img src="images/top_page.png" alt="HERMES" id="main_img"/>
 							</section>
 
 						<!-- First Section -->
-							<section id="first" class="main special">
+							<section id="intro" class="main special">
 								<div>
 									<h2>The Problem</h2>
 									<p>Runners frequently experience pain or discomfort while running, and repetitive stress injuries are common.  Unfortunately, they often struggle to determine what aches or pains are appearing with regularity or in concerning patterns. Preventing stress injuries from developing once minor pain  has begun also presents a challenge for these athletes. Injury/pain tracking is known to be an important method for the diagnosis and prevention of stress injuries; however, there currently does not exist an effective solution in this space targeted at amateurs.</p>
@@ -61,18 +63,19 @@
 							</section>
 
 						<!-- Second Section -->
-							<section id="features" class="main special">
+							<section id="features" class="main special bkgd">
 								<h2> Features </h2>
+								<iframe id="video_prototype" width="853" height="480"src=""></iframe>
 							</section>
 
 						<!-- Third Section -->
 							<section id="interactive" class="main special">
 								<h2> Interactive Prototype </h2>
-								<iframe id="interactive_frame" width="424" height="916" src="//invis.io/2YEG40I5U" frameborder="0" allowfullscreen></iframe>
+								<iframe width="424" height="916" src="//invis.io/2YEG40I5U" frameborder="0" allowfullscreen></iframe>
 							</section>
 
 						<!-- Fourth Section -->
-							<section id="video" class="main special">
+							<section id="video" class="main special bkgd">
 								<h2>Video Prototype</h2>
 								<iframe id="video_prototype" width="853" height="480"src=""></iframe>
 							</section>
@@ -89,7 +92,7 @@
 							</section>
 
 							<!-- About Us-->
-							<section id="about" class="main special">
+							<section id="about" class="main special bkgd">
 
 								<h2>About Us</h2>
 
@@ -106,6 +109,7 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/custom.js"></script>
 
 	</body>
 </html>

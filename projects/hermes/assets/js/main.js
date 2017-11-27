@@ -22,24 +22,26 @@
 			$main = $('#main');
 
 		// Disable animations/transitions until the page has loaded.
-			$body.addClass('is-loading');
+			/*$body.addClass('is-loading');
 
 			$window.on('load', function() {
 				window.setTimeout(function() {
 					$body.removeClass('is-loading');
 				}, 100);
-			});
+			});*/
 
 		// Fix: Placeholder polyfill.
-			$('form').placeholder();
+		//	$('form').placeholder();
 
 		// Prioritize "important" elements on medium.
-			skel.on('+medium -medium', function() {
+		/*	skel.on('+medium -medium', function() {
 				$.prioritize(
 					'.important\\28 medium\\29',
 					skel.breakpoint('medium').active
 				);
-			});
+			}); */
+
+
 
 		// Nav.
 			var $nav = $('#nav');
@@ -61,6 +63,9 @@
 				// Links.
 					var $nav_a = $nav.find('a');
 
+					console.log($nav_a[0].id);
+
+
 					$nav_a
 						.scrolly({
 							speed: 1000,
@@ -72,6 +77,10 @@
 
 							// External link? Bail.
 								if ($this.attr('href').charAt(0) != '#')
+									return;
+
+							// Logo? Bail.
+							if ($class == "logo_link")
 									return;
 
 							// Deactivate all links.
@@ -89,10 +98,16 @@
 
 							var	$this = $(this),
 								id = $this.attr('href'),
-								$section = $(id);
+								$section = $(id),
+								$class = $this.attr('class');
 
 							// No section for this link? Bail.
 								if ($section.length < 1)
+									return;
+
+							// Logo? Bail.
+
+								if ($class == "logo_link")
 									return;
 
 							// Scrollex.
