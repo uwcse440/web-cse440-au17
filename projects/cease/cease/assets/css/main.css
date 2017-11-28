@@ -22,8 +22,15 @@
   }
 
   .name {
-	  color: rgb(6, 93, 67);
-	  font-size: 28px;
+	  color: rgb(17, 181, 132);
+	  font-size: 30px;
+  }
+
+  .cs {
+	  color: rgb(236, 236, 236);
+	  font-weight: 200;
+	  font-size: 18px;
+	  font-style: regular;
   }
 
 
