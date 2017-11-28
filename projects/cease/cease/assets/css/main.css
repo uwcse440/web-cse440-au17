@@ -6,6 +6,7 @@
 
  .description {
 	 font-style: light;
+	 font-weight: 350;
 	 color: rgb(26, 190, 143);
  }
 
@@ -3713,7 +3714,7 @@
 /* Footer */
 
 	#footer {
-		padding: 6em 0 4em 0 ;
+		padding: 2em 0 2em 0 ;
 		background-color: #1d242a;
 		text-align: center;
 	}
