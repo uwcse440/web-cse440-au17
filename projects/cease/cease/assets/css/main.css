@@ -17,6 +17,15 @@
 	color: rgb(26, 190, 143);
   }
 
+  .about {
+	  border: 1px solid black;
+  }
+
+  .name {
+	  color: rgb(6, 93, 67);
+	  font-size: 28px;
+  }
+
 
 /* Reset */
 
@@ -28,6 +37,10 @@
 		font-family: Lato, sans-serif;
 		
 		vertical-align: baseline;
+	}
+
+	video {
+		border: 3px solid black;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1954,6 +1967,15 @@
 		position: relative;
 	}
 
+	.image.leftShift {
+		opacity: 60%;
+		left: 250px;
+	}
+
+	.image.rightShift {
+		right: 0px;
+	}
+
 		.image img {
 			border-radius: 3px;
 			display: block;
@@ -2320,7 +2342,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #ed4933;
+			background-color: #0bb3cdd6;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2330,7 +2352,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #ef5e4a !important;
+				background-color: #0bc5e1 !important;
 			}
 
 			input[type="submit"].special:active,
@@ -2338,7 +2360,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #eb341c !important;
+				background-color: #034f5b !important;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2654,6 +2676,7 @@
 
 		.wrapper.style1 {
 			background-color: #21b2a6;
+			opacity: 0.8;
 			color: #c7ebe8;
 		}
 
@@ -2811,7 +2834,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #104e67;
 			color: #d3d4e4;
 		}
 
@@ -2969,7 +2992,8 @@
 		}
 
 		.wrapper.style5 {
-			background-color: #ffffff;
+			background-color: #2e90c1;
+			opacity: 0.8;
 			color: #4E4852;
 		}
 
