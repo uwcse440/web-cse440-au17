@@ -11,9 +11,6 @@ projects:
    - name: "Check Yourself"
      path: checkyourself
      publishlink: false
-   - name: "GroundMemo"
-     path: groundmemo
-     publishlink: false
    - name: "Hermes"
      path: hermes
      publishlink: false
@@ -25,6 +22,9 @@ projects:
      publishlink: false
    - name: "MOLO"
      path: molo
+     publishlink: false
+   - name: "Pilltender"
+     path: pilltender
      publishlink: false
    - name: "RAPID"
      path: rapid
