@@ -509,3 +509,8 @@ ul.social-buttons {
     background-color: #212529; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
       background-color: #65c8d0; }
+
+    .grey-boarder{
+      border-style: solid;
+      border-color: grey;
+    }
