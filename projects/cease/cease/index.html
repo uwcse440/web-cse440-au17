@@ -27,10 +27,7 @@
 						
 								<div class="nav-text w3-top ">
 										<div class="w3-bar" id="myNavbar">
-										  <a class="w3-bar-item w3-button w3-card-4 w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
-											<i class="fa fa-bars"></i>
-										  </a>
-										  
+	  
 										  <a href="#about" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-green"><i></i> ABOUT </a>
 										  <a href="#documents" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-green"><i></i>DOCUMENTS</a>
 										  <a href="#video" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-green"><i></i> VIDEO</a>
@@ -103,7 +100,7 @@
 				<!-- Two -->
 					<section id="overview" class="wrapper alt style2">
 						<section class="spotlight">
-								<div class="image phone"><span class="image phoneBox leftShift"><img src="images/Progress_w1.5.png" alt="progress" /></span></div>
+								<div class="image phone"  data-scrolly-down="blurInTop"><span class="image phoneBox leftShift"><img src="images/Progress_w1.5.png" alt="progress" /></span></div>
 							<div class="content">
 								<h2>Nicotine & tar tracking<br /></h2>
 								<p class="description">Monitor your progress throughout the week without having to manually catalog every smoke.</p> 
@@ -228,6 +225,12 @@
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script type="text/javascript" src="scrolly/scrolly.js"></script>
+			<script>
+			   window.onload = function() {
+				  scrolly();
+			   }; 
+			</script>
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
