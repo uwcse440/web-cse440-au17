@@ -85,6 +85,16 @@
 		width: 51em;
 	}
 
+	.profilepic {
+		width: 100px;
+	  	height: 100px;
+	  	border-radius: 50%; 
+		background-image: url("path/to/image");
+		background-position: center;
+		background-size: cover;
+		margin: auto;
+	}
+
 	@media screen and (max-width: 1680px) {
 
 		.container.\31 25\25 {
@@ -108,7 +118,6 @@
 		.container {
 			width: 51em;
 		}
-
 	}
 
 	@media screen and (max-width: 1280px) {
@@ -1850,7 +1859,6 @@
 		font-weight: 700;
 		letter-spacing: 0.125em;
 		line-height: 1.75em;
-		margin-bottom: 1em;
 		text-transform: uppercase;
 		text-align: center;
 	}
@@ -1866,6 +1874,7 @@
 
 	h3 {
 		font-size: 1.5em;
+		margin-bottom: 0;
 	}
 
 	sub {
@@ -1906,7 +1915,7 @@
 			position: relative;
 			top: -1em;
 			color: #888888;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 			letter-spacing: 0.075em;
 		}
 
@@ -1944,12 +1953,12 @@
 
 			header.major p {
 				top: 0;
-				margin: 1.5em 0 0 0;
+				margin: 0;
 				padding: 1.5em 1.5em 0 1.5em;
-				font-size: 1.5em;
 				line-height: 1.75em;
 				border-top: solid 1px rgba(224, 224, 224, 0.75);
 				display: inline-block;
+				font-size: 20px;
 			}
 
 			header.major.last {
@@ -1963,7 +1972,7 @@
 				}
 
 				header.major.last h2 {
-					margin-bottom: 1em;
+					margin-bottom: 0;
 				}
 
 	footer {
@@ -2271,6 +2280,24 @@
 				padding: 0;
 			}
 
+	ul.team li a {
+		width: 150px;
+		height: 150px;
+	}
+
+	ul.team li span.name {
+		border: none;
+		text-align: center;
+		width: 100%;
+		font-size: 0.9em;
+		margin-top: 10px;
+		text-transform: uppercase;
+	}
+
+		ul.team li span.name:hover {
+			background: none;
+		}
+
 /* Table */
 
 	.table-wrapper {
@@ -2458,7 +2485,7 @@
 		}
 
 			.feature .content h3 {
-				margin-bottom: 0.5em;
+				text-align: center;
 			}
 
 			.feature .content :last-child {
@@ -2518,7 +2545,7 @@
 	}
 
 		#header:before, #header:after {
-			background: rgba(224, 224, 224, 0.75);
+			/*background: rgba(224, 224, 224, 0.75);*/
 			content: '';
 			left: 50%;
 			position: absolute;
@@ -2555,6 +2582,17 @@
 			color: #ffffff;
 		}
 
+		#header h2 {
+			font-weight: 200;
+			font-size: 1.3em;
+		}
+
+		/*#header h2 span {
+			font-size: 1.2em;
+			font-weight: bold;
+			font-color: white;
+		}*/
+
 		#header input[type="submit"],
 		#header input[type="reset"],
 		#header input[type="button"],
@@ -2575,6 +2613,8 @@
 			margin: 0 0 0.75em 0;
 			text-align: center;
 			width: 2.35em;
+			background: url("../../images/icon01.png") no-repeat center center;
+			background-size: 100%;
 		}
 
 			#header .logo.fa-paper-plane-o:before {
@@ -2679,7 +2719,7 @@
 			color: rgba(255, 255, 255, 0.5);
 			font-size: 0.8em;
 			line-height: 1em;
-			margin: 3em 0 0 0;
+			margin: 5em 0 0 0;
 		}
 
 			#footer .copyright li {
@@ -2743,12 +2783,14 @@
 
 			h3 {
 				font-size: 1.25em;
+				
 			}
 
 		/* Section/Article */
 
 			header.major p {
-				font-size: 1.25em;
+				font-size: 20px;
+				text-align: justify;
 			}
 
 		/* Header */
@@ -2789,12 +2831,12 @@
 		/* Section/Article */
 
 			header.major {
-				margin-bottom: 4em;
 				padding: 3em 0;
 			}
 
 				header.major p {
-					font-size: 1.15em;
+					font-size: 15px;
+					font-size: 15px;
 				}
 
 			footer.major {
@@ -2817,6 +2859,7 @@
 
 				.feature .content {
 					padding: 2.5em;
+					text-align: center;
 				}
 
 		/* Header */
@@ -2924,7 +2967,7 @@
 				}
 
 				header.major p {
-					font-size: 0.8em;
+					font-size: 15px;
 				}
 
 			footer.major {
@@ -3090,6 +3133,7 @@
 
 				.feature .content {
 					padding: 2em 1em !important;
+					text-align: center;
 				}
 
 		/* Main */
