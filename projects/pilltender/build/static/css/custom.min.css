@@ -1,5 +1,8 @@
 body {
-    font-family: Tahoma, sans-serif;
+    font-family: 'Proxima Nova', Tahoma, sans-serif;
+    color: #545454;
+    font-size: 16px;
+    text-align: center;
 }
 
 .page-header__nav {
@@ -8,6 +11,20 @@ body {
 
 .page-nav__link {
     font-size: 16px;
+}
+
+#header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 10;
+
+  border-bottom: 1px solid rgba(0,0,0,0.5);
+}
+
+#content {
+  margin-top: 60px;
+  z-index:1;
 }
 
 .header-container {
@@ -22,6 +39,7 @@ body {
    width: 100%;
    overflow: hidden;
    height:90%;
+   max-height:500px;
 }
 
 
@@ -68,6 +86,17 @@ body {
     padding-top: 100px;
 }
 
+b, strong {
+    color: #0fa8eb;
+}
+
+.subtitle {
+    color: #0fa8eb;
+    font-size: 20px;
+    font-family: 'Proxima Nova', Tahoma, sans-serif;
+    text-align: center
+}
+
 .general-text {
     color: #3c3d3d;
     line-height: 130%;
@@ -77,6 +106,7 @@ body {
 .imgContainer{
     display: inline-block;
     border-radius: 50%;
+    color: #545454;
 }
 
 .team-members>img{
@@ -87,4 +117,25 @@ body {
 .docs>img{
     border-radius: 50%;
     padding: 10px;
+}
+
+.pilltender>img {
+    border-style: solid;
+    border-color: #0fa8eb;
+    border-width: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
