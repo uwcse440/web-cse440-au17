@@ -37,6 +37,9 @@ locations:
   officehoursjames:
     - time: "3:30 - 4:30"
       location: "CSE 632"
+  officehoursjames1128:
+    - time: "2:00 - 3:30"
+      location: "CSE 632"
   officehoursdhruv:
     - time: "1:30 - 2:30"
       location: "CSE 021"
@@ -351,7 +354,7 @@ officehours:
     location: officehoursjames
   - date: "2017-11-28"
     name: "James Office Hour"
-    location: officehoursjames
+    location: officehoursjames1128
   - date: "2017-12-05"
     name: "James Office Hour"
     location: officehoursjames
