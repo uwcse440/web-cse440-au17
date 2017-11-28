@@ -30,6 +30,12 @@ locations:
     - time: "1:30 - 2:20"
       location: "MGH 058"
 
+  sections_morningonly:
+    - time: "9:30 - 10:20"
+      location: "MGH 058"
+    - time: "10:30 - 11:20"
+      location: "MGH 058"
+
   postersession:
     - time: "11:00 - 12:20"
       location: "CSE Atrium"
@@ -293,7 +299,7 @@ majors:
     link: "assignments/assignment3/#presentation"
   - date: "2017-12-01"
     name: "Presentations"
-    location: "sections"
+    location: "sections_morningonly"
     link: "assignments/assignment3/#presentation"
   - date: "2017-11-21"
     name: "Exam"
