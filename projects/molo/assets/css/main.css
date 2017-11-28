@@ -2308,7 +2308,7 @@
 	}
 
 		ul.buttons li a {
-			width: 250px;
+			width: 300px;
 		}
 
 /* Table */
@@ -2454,7 +2454,8 @@
 
 	.feature {
 		position: relative;
-		height: 20em;
+		height: 16em;
+		margin-top: 1em;
 	}
 
 		.feature:after {
@@ -2482,6 +2483,7 @@
 				position: relative;
 				height: 100%;
 				margin: 0 auto;
+				border-radius: 10px;
 			}
 
 		.feature:before {
