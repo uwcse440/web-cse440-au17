@@ -345,6 +345,10 @@ aways:
     name: >
           James Away<br>
           <small><a href="http://cra.org/ccc/events/computing-research-addressing-national-priorities-societal-needs-2017/">@ CCC Symposium</a></small>
+  - date: "2017-12-04"
+    name: Nigini Away
+  - date: "2017-12-05"
+    name: Nigini Away
   - date: "2017-12-08"
     name: Kailey / Nigini Switch Sections
 
@@ -389,9 +393,9 @@ officehours:
   - date: "2017-11-30"
     name: "Dhruv Office Hour"
     location: officehoursdhruv
-  - date: "2017-12-07"
+  - date: "2017-12-04"
     name: "Dhruv Office Hour"
-    location: officehoursdhruv
+    location: officehoursnigini
 
   - date: "2017-10-04"
     name: "Kailey Office Hour"
@@ -442,9 +446,9 @@ officehours:
   - date: "2017-11-29"
     name: "Nigini Office Hour"
     location: officehourskailey
-  - date: "2017-12-04"
+  - date: "2017-12-07"
     name: "Nigini Office Hour"
-    location: officehoursnigini
+    location: officehoursdhruv
   - date: "2017-12-11"
     name: "Nigini Office Hour"
     location: officehoursnigini
