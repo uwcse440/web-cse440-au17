@@ -45,7 +45,8 @@ strong {
 }
 
 .bg-gray, section.browser .nav-tabs a.active {
-  background: #f5f5f5;
+  background: linear-gradient(230deg, #5989e5, #37cfdc);
+  color: #fff;
 }
 
 .no-padding {
@@ -325,7 +326,7 @@ nav.navbar .navbar-brand {
 
 nav.navbar a.nav-link {
   color: #333;
-  font-size: 1.1rem;
+
 }
 
 nav.navbar a.nav-link:hover, nav.navbar a.nav-link.active {
@@ -375,6 +376,11 @@ nav.navbar .navbar-toggler.active span:nth-of-type(2) {
   nav.navbar {
     padding-left: 3rem;
     padding-right: 3rem;
+  }
+
+  nav.navbar a.nav-link {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
   }
 }
 
@@ -461,11 +467,6 @@ section.browser .nav-tabs a.active {
 section#why-us {
   color: #fff;
   background: linear-gradient(230deg, #5989e5, #37cfdc);
-  background-size: 400% 400%;
-
-  -webkit-animation: bganimate 10s ease infinite;
-  -moz-animation: bganimate 10s ease infinite;
-  animation: bganimate 10s ease infinite;
 
   @-webkit-keyframes bganimate {
     0%{background-position:0% 96%}
