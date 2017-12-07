@@ -2,6 +2,7 @@ $basecolor: #00838F;
 $header: #005662;
 $offwhite: #F5F5F6;
 $keygrey: #95989A;
+$main: #636363;
 $lightgrey: #F2F2F2;
 $highlight: #EC407A;
 
@@ -11,12 +12,12 @@ body {
 }
 
 #main {
-	font-color: $keygrey;
+	color: $main;
 }
 
 
 #main h2 {
-	color: $basecolor;
+	color: $header;
 	text-transform: uppercase;
 }
 
@@ -181,8 +182,8 @@ section {
 }
 
 .feature {
-	padding-top:5%;
-	padding-bottom: 5%;
+	padding-top:4%;
+	padding-bottom: 4%;
 }
 
 #document_list {
@@ -213,6 +214,35 @@ section {
 
 #document_list li a:hover {
 	color: $offwhite;
+}
+
+#document_list2 {
+	list-style-type: none;
+	margin-top: 3em;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#document_list2 li{
+	text-align: center;
+	color: $main;
+	display: inline-block;
+}
+
+#document_list2 li a {
+	text-decoration: none;
+	border: none;
+}
+
+#document_list2 li a div i {
+	font-size: 5em;
+	width: 100%;
+	padding-bottom: 20px;
+	color: $basecolor;
+}
+
+#document_list2 li a div:hover > * {
+	color: $header;
 }
 
 
