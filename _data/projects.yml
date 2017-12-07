@@ -22,7 +22,7 @@ projects:
      publishlink: false
    - name: "MOLO"
      path: molo
-     publishlink: false
+     publishlink: true
    - name: "Pilltender"
      path: pilltender
      publishlink: false
@@ -40,4 +40,4 @@ projects:
      publishlink: false
    - name: "StudyBuddy"
      path: studybuddy
-     publishlink: false
+     publishlink: true
