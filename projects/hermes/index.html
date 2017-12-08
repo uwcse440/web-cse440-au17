@@ -11,11 +11,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="assets/css/custom.css"/>
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
+		<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
 		<link rel="shortcut icon" type="image/png" href="project_thumb.png"/>
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link rel="stylesheet" href="assets/css/custom.css"/>
 	</head>
 	<body>
 
@@ -65,43 +67,43 @@
 							</section>
 
 						<!-- Second Section -->
-							<section id="features" class="main special bkgd">
-								<h2> Features </h2>
-								<div class="feature feature-left"> 
-									<div/>
-										<img src="images/ring_no_background.png" alt="ring" />
-										<img src = "images/select_knee_mockup.png" alt="select body part" />
-									</div>
-									<p>Track data quickly and easily <br />using the smart ring</p>
-								</div>
-								<div class="feature feature-right"> 
-									<p>View data about runs and find <br /> trends and connections to reduce pain</p>
-									<div/>
-										<img src="images/view_data_date_mockup.png" alt="view data by date" />
-										<img src = "images/view_data_knee_mockup.png" alt="view data by body part" />
-									</div>
-								</div>
-								<div class="feature feature-left"> 
-									<div/>
-										<img src="images/tip_mockup.png" alt="tip before run" />
-										<img src = "images/suggestion_mockup.png" alt="exercise suggestion" />
-									</div>
-									<p>Prevent injuries with <br /> tips and exercise suggestions</p>
-								</div>
+							<section id="features" class="">
+								<img src="images/ring_section.png" alt="ring_1"/>
+								<img src="images/app_section_1.png" alt="app_1"/>
+								<img src="images/app_section_2.png" alt="app_2"/>
+								<img src="images/app_section_3.png" alt="app_3"/>
+								<img src="images/app_section_4.png" alt="app_4"/>
 							</section>
 
 						<!-- Third Section -->
 							<section id="interactive" class="main special">
-								<h2> Interactive Prototype </h2>
+								<h2> Interact with Prototype </h2>
 								<iframe width="424" height="916" src="//invis.io/2YEG40I5U" frameborder="0" allowfullscreen></iframe>
 							</section>
 
+							<div id="dialog_popup">
+							  <video id="dialog_video" width="853" height="480" controls autoplay>
+									<source src="./documents/video_prototype.mp4" type="video/mp4">
+								</video>
+							</div>
+
 						<!-- Fourth Section -->
-							<section id="video" class="main special bkgd">
+							<section id="video" class="">
+								<div>
+									<img src="images/video_bkgd.png" alt= "video" />
+									<a id="video_link">
+										<div>
+											<i class="material-icons">play_circle_outline</i>
+											<h2>Play video</h2>
+										</div>
+									</a>
+								</div>
+								<!--
 								<h2>Video Prototype</h2>
 								<video width="853" height="480" controls>
 									<source src="./documents/video_prototype.mp4" type="video/mp4">
 								</video>
+								!-->
 							</section>
 
 						<!-- Get Started -->
@@ -126,7 +128,7 @@
 							-->
 
 							<section id="documents" class="main special">
-								<h2>Documents</h2>
+								<h2>View Documents</h2>
 								<ul id="document_list2">
 									<li>
 										<a href="./documents/research_report.pdf" target="_blank">
@@ -195,7 +197,11 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
+			<script
+			  src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+			<script
+			  src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+			<!--<script src="assets/js/jquery.min.js"></script>-->
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/skel.min.js"></script>

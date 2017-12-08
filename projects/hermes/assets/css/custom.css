@@ -228,4 +228,107 @@ section {
 #about > ul > li > .major {
   font-size: 0.75em; }
 
+#features, #video {
+  padding: 0;
+  margin: 0; }
+
+#video div {
+  position: relative;
+  height: auto;
+  z-index: 0; }
+
+#features > img, #video div > img {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  display: block; }
+
+#video div > img {
+  top: 0;
+  height: 100%;
+  width: 100%; }
+
+#video div > a {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  top: 50%;
+  cursor: pointer;
+  border: none; }
+
+#video div > a > div > * {
+  display: inline-block;
+  color: #F5F5F6;
+  font-size: lighter; }
+
+#video div > a > div > *:hover {
+  font-weight: 500; }
+
+#video div > a > div > i {
+  font-size: 3em;
+  vertical-align: middle;
+  padding-right: 20px; }
+
+#dialog_popup {
+  display: none;
+  padding: 0;
+  border: 0;
+  margin: 0; }
+
+.ui-button, .ui-dialog-titlebar {
+  display: auto;
+  background: rgba(0, 0, 0, 0);
+  border: none;
+  padding: 0;
+  margin: 0;
+  font-size: 2em;
+  min-width: 0;
+  box-shadow: none; }
+
+.ui-dialog .ui-dialog-titlebar-close {
+  color: rgba(0, 0, 0, 0) !important;
+  background: rgba(0, 0, 0, 0);
+  box-shadow: none;
+  border: none;
+  outline: none; }
+
+.ui-button {
+  transform: scale(2); }
+
+.ui-dialog .ui-dialog-titlebar-close {
+  right: auto; }
+
+.ui-dialog .ui-dialog-title {
+  width: 70%; }
+
+.ui-draggable .ui-dialog-titlebar {
+  margin: 0;
+  padding: 0; }
+
+.ui-button:hover {
+  box-shadow: none;
+  border: none;
+  background: white; }
+
+.ui-widget-content {
+  background: none; }
+
+.ui-widget.ui-widget-content {
+  padding: 0;
+  border: none; }
+
+.ui-dialog {
+  position: relative;
+  text-align: center;
+  margin-left: auto;
+  /* text-align: center; */
+  margin-right: auto;
+  height: auto;
+  left: 0; }
+
+.override {
+  opacity: 0.8;
+  background: #010101; }
+
 /*# sourceMappingURL=custom.css.map */
