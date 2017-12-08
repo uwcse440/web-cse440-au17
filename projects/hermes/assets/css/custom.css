@@ -33,7 +33,8 @@ body {
   max-width: 100%;
   color: #F5F5F6;
   padding: 0 4em;
-  background-color: #005662; }
+  background-color: #005662;
+  z-index: 50; }
 
 #nav.alt ul li {
   height: 100%; }
@@ -62,6 +63,14 @@ body {
 
 #nav.scroll {
   background-color: rgba(0, 0, 0, 0); }
+
+#intro {
+  text-align: left; }
+
+#intro h2 {
+  max-width: 75%;
+  margin-left: auto;
+  margin-right: auto; }
 
 #main_img {
   width: 100%; }
@@ -300,7 +309,7 @@ section {
   right: auto; }
 
 .ui-dialog .ui-dialog-title {
-  width: 70%; }
+  width: 77%; }
 
 .ui-draggable .ui-dialog-titlebar {
   margin: 0;
