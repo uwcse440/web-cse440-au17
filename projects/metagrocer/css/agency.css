@@ -133,7 +133,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/header-bg.gif");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -257,7 +257,7 @@ header.masthead {
       margin-bottom: 30px; }
     .portfolio-modal .modal-content img {
       margin-bottom: 30px; 
-      max-width: 80%; }
+      max-width: %; }
     .portfolio-modal .modal-content button {
       cursor: pointer; }
   .portfolio-modal .close-modal {
