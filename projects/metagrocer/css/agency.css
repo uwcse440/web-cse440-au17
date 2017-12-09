@@ -389,7 +389,7 @@ header.masthead {
       .timeline > li .timeline-image h4 {
         font-size: 13px;
         line-height: 18px;
-        margin-top: 16px; }
+        margin-top: 28px; }
     .timeline > li.timeline-inverted > .timeline-panel {
       float: right;
       padding: 0 30px 20px 20px;
@@ -407,7 +407,7 @@ header.masthead {
       .timeline > li .timeline-image h4 {
         font-size: 18px;
         line-height: 26px;
-        margin-top: 30px; }
+        margin-top: 40px; }
     .timeline > li.timeline-inverted > .timeline-panel {
       padding: 0 20px 20px; } }
 
@@ -421,7 +421,7 @@ header.masthead {
       height: 170px;
       margin-left: -85px; }
       .timeline > li .timeline-image h4 {
-        margin-top: 40px; }
+        margin-top: 50px; }
     .timeline > li.timeline-inverted > .timeline-panel {
       padding: 0 100px 20px 20px; } }
 
