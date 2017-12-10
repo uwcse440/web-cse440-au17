@@ -1,7 +1,7 @@
 projects:
    - name: "amisu"
      path: amisu
-     publishlink: false
+     publishlink: true
    - name: "BackTrack"
      path: backtrack
      publishlink: false
