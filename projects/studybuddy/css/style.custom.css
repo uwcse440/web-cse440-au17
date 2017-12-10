@@ -1,3 +1,7 @@
+body {
+	text-align:center;
+}
+
 .team-member img {
   margin: 0 auto;
   border: 7px solid white;
@@ -5,4 +9,24 @@
 
 .smallHeading-section {
 	padding-top:0;
+}
+
+.iconBar {
+	text-align: center;
+}
+
+.documents .icon:hover {
+	color: white;
+}
+
+.featuresList {
+	padding-left:18%;
+}
+
+.featuresList li{
+	text-align: left;
+}
+
+.featuresInfo {
+	width:400px;
 }
