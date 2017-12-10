@@ -4,7 +4,7 @@ projects:
      publishlink: true
    - name: "BackTrack"
      path: backtrack
-     publishlink: false
+     publishlink: true
    - name: "Cease"
      path: cease
      publishlink: false
