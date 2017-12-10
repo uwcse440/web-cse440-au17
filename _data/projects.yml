@@ -37,7 +37,7 @@ projects:
      publishlink: true
    - name: "Speech Bubble"
      path: speechbubble
-     publishlink: false
+     publishlink: true
    - name: "StudyBuddy"
      path: studybuddy
      publishlink: true
