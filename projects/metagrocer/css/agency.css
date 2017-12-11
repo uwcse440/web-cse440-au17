@@ -101,7 +101,7 @@ body {
     font-weight: 400;
     padding: 0.75em 0;
     letter-spacing: 1px;
-    color: #65c8d0;
+    color: white;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
       color: #55a7ad; }
@@ -131,9 +131,9 @@ body {
         padding: 12px 0; } }
 
 header.masthead {
-  text-align: center;
-  color: black;
-  background-image: url("../img/header-bg1.jpg");
+  text-align: left;
+  color: white;
+  background-image: url("../img/header-bg.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -159,18 +159,18 @@ header.masthead {
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
-    padding-top: 300px;
+    padding-top: 250px;
     padding-bottom: 200px; }
     header.masthead .intro-text .intro-lead-in {
-      font-size: 40px;
+      font-size: 30px;
       font-style: italic;
       line-height: 40px;
       margin-bottom: 25px;
       font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     header.masthead .intro-text .intro-heading {
-      font-size: 75px;
+      font-size: 70px;
       font-weight: 700;
-      line-height: 75px;
+      line-height: 95px;
       margin-bottom: 50px;
       font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; } }
 
