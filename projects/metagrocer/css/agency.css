@@ -257,7 +257,7 @@ header.masthead {
       margin-bottom: 30px; }
     .portfolio-modal .modal-content img {
       margin-bottom: 30px; 
-      max-width: %; }
+      max-width: 80%; }
     .portfolio-modal .modal-content button {
       cursor: pointer; }
   .portfolio-modal .close-modal {
