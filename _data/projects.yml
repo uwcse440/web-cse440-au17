@@ -10,7 +10,7 @@ projects:
      publishlink: false
    - name: "Check Yourself"
      path: checkyourself
-     publishlink: false
+     publishlink: true
    - name: "Hermes"
      path: hermes
      publishlink: true
