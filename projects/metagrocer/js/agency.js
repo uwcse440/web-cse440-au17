@@ -42,20 +42,20 @@
   // Scroll reveal calls
   window.sr = ScrollReveal();
   sr.reveal('.sr-header', {
-    duration: 1200,
-    scale: 0.3,
-    distance: '0px'
-  }, 400);
+    origin: 'bottom',
+    duration: 1400,
+    delay: 500
+  }, 200);
   sr.reveal('.sr-icons', {
     duration: 600,
     scale: 0.3,
     distance: '0px'
   }, 200);
   sr.reveal('.sr-text', {
-    duration: 400,
+    duration: 1200,
     scale: 0.3,
     distance: '0px',
-    viewFactor: 0.8
+    viewFactor: 0.2
   }, 400);
 
   // Hide navbar when modals trigger
