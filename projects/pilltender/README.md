@@ -1,2 +1,2 @@
-## Fall 2017 CSE 440 Project - Pilltender
-Shadman Abedin, Allison Chou, Celina Hipolito, Will Wang
+# Pilltender
+Fall 2017 CSE 440 Project - Shadman Abedin, Allison Chou, Celina Hipolito, Will Wang
