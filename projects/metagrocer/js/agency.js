@@ -39,6 +39,19 @@
   // Collapse the navbar when page is scrolled
   $(window).scroll(navbarCollapse);
 
+  // Scroll reveal calls
+  window.sr = ScrollReveal();
+  sr.reveal('.sr-icons', {
+    duration: 600,
+    scale: 0.3,
+    distance: '0px'
+  }, 200);
+  sr.reveal('.sr-text', {
+    duration: 600,
+    scale: 0.3,
+    distance: '0px'
+  }, 400);
+
   // Hide navbar when modals trigger
   $('.portfolio-modal').on('show.bs.modal', function(e) {
     $(".navbar").addClass("d-none");
