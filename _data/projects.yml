@@ -19,16 +19,16 @@ projects:
      publishlink: true
    - name: "MetaGrocer"
      path: metagrocer
-     publishlink: false
+     publishlink: true
    - name: "MOLO"
      path: molo
      publishlink: true
    - name: "Pilltender"
      path: pilltender
-     publishlink: false
+     publishlink: true
    - name: "RAPID"
      path: rapid
-     publishlink: false
+     publishlink: true
    - name: "SALT"
      path: salt
      publishlink: false
