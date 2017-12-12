@@ -2,11 +2,6 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
 
-
-.cease-hover-green:hover {
-	color: green;
-}
-
  .description {
 	 font-style: light;
 	 font-weight: 350;
@@ -38,7 +33,7 @@
 
 
 	.image.phoneBox {
-		margin: 5px;
+		
 		border-top: 5px solid black;
 		border-right: 5px solid black;
 		border-bottom: 5px solid black;
@@ -1997,7 +1992,7 @@
 	}
 
 	.image.leftShift {
-		opacity: 60%;
+
 		left: 250px;
 	}
 
