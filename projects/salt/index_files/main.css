@@ -2386,11 +2386,13 @@
 			width: 50%;
 		}
 
-		#team .features li {
-			padding: 4em 4em 2em 6em ;
-			text-align: center;
-			width: 50%;
+		@media screen and (min-width: 980px) {
+			#team .features li {
+				text-align: center;
+				width: 50%;
+			}
 		}
+
 		#team .features li img {
 			width: 100%;
 		}
@@ -3219,7 +3221,7 @@
 					}
 
 		#menu .close {
-			background-image: url("images/close.svg");
+			background-image: url("../images/close.svg");
 			background-position: 4.85em 1em;
 			background-repeat: no-repeat;
 			border: 0;
@@ -3336,7 +3338,7 @@
 						}
 
 							#header nav > ul > li > a.menuToggle:after {
-								background-image: url("images/bars.svg");
+								background-image: url("../images/bars.svg");
 								background-position: right center;
 								background-repeat: no-repeat;
 								content: '';
