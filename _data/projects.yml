@@ -31,7 +31,7 @@ projects:
      publishlink: true
    - name: "SALT"
      path: salt
-     publishlink: false
+     publishlink: true
    - name: "SimPark"
      path: simpark
      publishlink: true
