@@ -2386,6 +2386,15 @@
 			width: 50%;
 		}
 
+		#team .features li {
+			padding: 4em 4em 2em 6em ;
+			text-align: center;
+			width: 50%;
+		}
+		#team .features li img {
+			width: 100%;
+		}
+
 			.features li:nth-child(1) {
 				background-color: rgba(0, 0, 0, 0.035);
 			}
