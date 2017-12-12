@@ -2,6 +2,7 @@ $basecolor: #00838F;
 $header: #005662;
 $offwhite: #F5F5F6;
 $keygrey: #95989A;
+$main: #636363;
 $lightgrey: #F2F2F2;
 $highlight: #EC407A;
 
@@ -11,12 +12,12 @@ body {
 }
 
 #main {
-	font-color: $keygrey;
+	color: $main;
 }
 
 
 #main h2 {
-	color: $basecolor;
+	color: $header;
 	text-transform: uppercase;
 }
 
@@ -51,6 +52,7 @@ body {
     color: $offwhite;
     padding: 0 4em;
     background-color: $header;
+    z-index: 50;
 }
 
 #nav.alt ul li {
@@ -85,6 +87,16 @@ body {
 
 #nav.scroll {
   background-color: rgba(0,0,0,0);
+}
+
+#intro {
+	text-align: left;
+}
+
+#intro h2 {
+	max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #main_img {
@@ -181,8 +193,8 @@ section {
 }
 
 .feature {
-	padding-top:5%;
-	padding-bottom: 5%;
+	padding-top:4%;
+	padding-bottom: 4%;
 }
 
 #document_list {
@@ -215,6 +227,35 @@ section {
 	color: $offwhite;
 }
 
+#document_list2 {
+	list-style-type: none;
+	margin-top: 3em;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#document_list2 li{
+	text-align: center;
+	color: $main;
+	display: inline-block;
+}
+
+#document_list2 li a {
+	text-decoration: none;
+	border: none;
+}
+
+#document_list2 li a div i {
+	font-size: 5em;
+	width: 100%;
+	padding-bottom: 20px;
+	color: $basecolor;
+}
+
+#document_list2 li a div:hover > * {
+	color: $header;
+}
+
 
 #about > ul{
 	list-style-type: none;
@@ -235,8 +276,9 @@ section {
 	width: 100%;
 }*/
 
-#about > ul > li > .image > img {
+.image > img {
 	width: 100%;
+	border-radius: 0;
 }
 
 #about > ul > li > p {
@@ -254,3 +296,131 @@ section {
 #about > ul > li > .major {
 	font-size: 0.75em;
 }
+
+#features, #video {
+	padding: 0;
+	margin: 0;
+}
+
+#video div {
+	position: relative;
+    height: auto;
+    z-index: 0;
+}
+
+
+#features > img, #video div > img {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
+#video div > img {
+  top: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#video div > a {
+	position: absolute;
+	text-align: center;
+	display: inline-block;
+	width: 100%;
+	top: 50%;
+	cursor: pointer;
+	border: none;
+}
+
+#video div > a > div > * {
+	display: inline-block;
+	color: $offwhite;
+	font-size: lighter;
+}
+
+#video div > a > div > *:hover {
+	font-weight: 500;
+
+}
+
+#video div > a > div > i {
+	font-size: 3em;
+	vertical-align: middle;
+	padding-right: 20px;
+}
+
+#dialog_popup {
+    display: none;
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+
+.ui-button, .ui-dialog-titlebar {
+	display: auto;
+	background: rgba(0,0,0,0);
+	border: none;
+	padding: 0;
+	margin: 0;
+	font-size: 2em;
+	min-width: 0;
+	box-shadow: none;
+}
+
+.ui-dialog .ui-dialog-titlebar-close {
+	color: rgba(0,0,0,0) !important;
+	background: rgba(0,0,0,0);
+	box-shadow: none;
+	border: none;
+	outline: none;
+}
+.ui-button {
+	transform: scale(2);
+}
+
+.ui-dialog .ui-dialog-titlebar-close {
+	right: auto;
+}
+
+.ui-dialog .ui-dialog-title {
+	width: 77%;
+}
+
+.ui-draggable .ui-dialog-titlebar {
+	margin: 0;
+	padding: 0;
+}
+
+.ui-button:hover {
+	box-shadow: none;
+	border:none;
+	background: rgb(255,255,255);
+}
+
+.ui-widget-content {
+	background: none;
+}
+
+.ui-widget.ui-widget-content {
+	padding: 0;
+    border: none;
+}
+
+.ui-dialog {
+	position: relative;
+    text-align: center;
+    margin-left: auto;
+    /* text-align: center; */
+    margin-right: auto;
+    height: auto;
+    left: 0;
+}
+
+.override {
+	opacity: 0.8;
+    background: rgb(1,1,1);
+}
+
+
+
