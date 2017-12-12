@@ -2,6 +2,10 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
 
+.about-img {
+	border-radius: 50%;
+}
+
  .description {
 	 font-style: light;
 	 font-weight: 350;
@@ -2560,6 +2564,7 @@
 			order: 1;
 			border-radius: 0;
 			width: 40%;
+			margin: 20px;
 		}
 
 			.spotlight .image img {
