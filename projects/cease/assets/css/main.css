@@ -1994,17 +1994,13 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
+		
 	}
 
-	.image.leftShift {
-
-		left: 150px;
-	}
-
-	.image.rightShift {
-		right: 0px;
-	}
-
+		.image.aboutShadow {
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		}
+		
 		.image img {
 			border-radius: 3px;
 			display: block;
