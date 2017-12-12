@@ -15,7 +15,6 @@
 			xsmall:	'(max-width: 480px)'
 		});
 
-	
 
 	$(function() {
 
