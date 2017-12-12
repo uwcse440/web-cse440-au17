@@ -7,7 +7,7 @@ projects:
      publishlink: true
    - name: "Cease"
      path: cease
-     publishlink: false
+     publishlink: true
    - name: "Check Yourself"
      path: checkyourself
      publishlink: true
